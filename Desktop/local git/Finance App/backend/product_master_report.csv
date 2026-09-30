@@ -1,0 +1,261 @@
+﻿Report Name,Product Master Report
+Store Name,b2b-uat.myshopify.com
+Generated On,17-Sep-2026 04:54:27 PM
+
+S. No.,Shopify ID,Product Code,Product SKU,Product Name,Product Type,Product Category,Channel - Canada (CAD),Channel - US (USD),Channel Exam - Canada (CAD),Channel Exam - US (USD),Reseller - Cananda (CAD),Reseller - US (USD)
+1,7793326850113,CPENT0001026634,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,NA,1050.0,NA,NA,NA,NA
+2,7793327571009,EDRP000000302,EDRP-V03-DRM,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook,DRM,EDRP,NA,247.5,NA,NA,NA,NA
+3,7793327603777,EDRP00000030404,EDRP-V03-EV-ECC,EC-Council Disaster Recovery Professional (EDRP) Version 3 Exam Voucher,ECC EV,EDRP,NA,NA,393.0,300.0,NA,NA
+4,7793327636545,EDRP00000030407,EDRP-V03-EV-RPS,EC-Council Disaster Recovery Professional (EDRP) Version 3 Exam Voucher (RPS),PU EV,EDRP,NA,NA,524.0,400.0,NA,NA
+5,7793327734849,EDRP000010324,EDRP-V03-DRM-Lab,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Lab,DRM + Lab,EDRP,NA,421.5,NA,NA,NA,NA
+6,7793327767617,EDRP00001032804,EDRP-V03-DRM-Lab-EV-ECC,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,EDRP,NA,696.5,NA,NA,NA,NA
+7,7793327800385,EDRP000000305,EDRP-V03-Lab,EC-Council Disaster Recovery Professional (EDRP) Version 3 Lab,Lab,EDRP,NA,199.0,NA,NA,NA,NA
+8,7793327833153,EDRP00001032207,EDRP-V03-DRM-EV-RPS,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,EDRP,NA,622.5,NA,NA,NA,NA
+9,7793327865921,CSA000000020404,CSA-V02-EV-ECC,Certified SOC Analyst (CSA) Version 2 Exam Voucher,ECC EV,CSA,NA,NA,196.5,150.0,NA,NA
+10,7793327898689,CSA0000000202,CSA-V02-DRM,Certified SOC Analyst (CSA) Version 2 eBook,DRM,CSA,NA,180.0,NA,NA,NA,NA
+11,7793327931457,CSA000000020407,CSA-V02-EV-RPS,Certified SOC Analyst (CSA) Version 2 Exam Voucher (RPS),PU EV,CSA,NA,NA,327.5,250.0,NA,NA
+12,7793327964225,CSA0000000205,CSA-V02-Lab,Certified SOC Analyst (CSA) Version 2 Lab,Lab,CSA,NA,165.0,NA,NA,NA,NA
+13,7793327996993,EDRP00001032807,EDRP-V03-DRM-Lab-EV-RPS,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,EDRP,NA,796.5,NA,NA,NA,NA
+14,7793328095297,CSA0000010224,CSA-V02-DRM-Lab,Certified SOC Analyst (CSA) Version 2 eBook with Lab,DRM + Lab,CSA,NA,320.0,NA,NA,NA,NA
+15,7793328128065,CSA000001022804,CSA-V02-DRM-Lab-EV-ECC,Certified SOC Analyst (CSA) Version 2 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CSA,NA,445.0,NA,NA,NA,NA
+16,7793328160833,CSA000001022807,CSA-V02-DRM-Lab-EV-RPS,Certified SOC Analyst (CSA) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CSA,NA,545.0,NA,NA,NA,NA
+17,7793328193601,ECES00000030404,ECES-V03-EV-ECC,EC-Council Certified Encryption Specialist (ECES) Version 3 Exam Voucher,ECC EV,ECES,NA,NA,196.5,150.0,NA,NA
+18,7793328259137,ECES000000302,ECES-V03-DRM,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook,DRM,ECES,NA,180.0,NA,NA,NA,NA
+19,7793328291905,ECES00000030407,ECES-V03-EV-RPS,EC-Council Certified Encryption Specialist (ECES) Version 3 Exam Voucher (RPS),PU EV,ECES,NA,NA,327.5,250.0,NA,NA
+20,7793328324673,ECES00001032204,ECES-V03-DRM-EV-ECC,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher,DRM W/ECC EV,ECES,NA,305.0,NA,NA,NA,NA
+21,7793328357441,ECES00001032207,ECES-V03-DRM-EV-RPS,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,ECES,NA,405.0,NA,NA,NA,NA
+22,7793328390209,ECES00001032804,ECES-V03-DRM-Lab-EV-ECC,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,ECES,NA,479.0,NA,NA,NA,NA
+23,7793328422977,ECES00001032807,ECES-V03-DRM-Lab-EV-RPS,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher (RPS)  & Lab,DRM W/PU EV + Lab,ECES,NA,579.0,NA,NA,NA,NA
+24,7793328455745,ECES000010324,ECES-V03-DRM-Lab,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Lab,DRM + Lab,ECES,NA,354.0,NA,NA,NA,NA
+25,7793328488513,ECES000000305,ECES-V03-Lab,EC-Council Certified Encryption Specialist (ECES) Version 3 Lab,Lab,ECES,NA,99.0,NA,NA,NA,NA
+26,7793329078337,CCISO0001032207,CCISO-V03-DRM-EV-RPS,Certified Chief Information Security Officer (CCISO) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,CCISO,NA,750.0,NA,NA,NA,NA
+27,7793329307713,CCT000001012207,CCT-V01-DRM-EV-RPS,Certified Cybersecurity Technician (CCT) Version 1 eBook with Exam Voucher (RPS),DRM W/PU EV,CCT,NA,273.99,NA,NA,NA,NA
+28,7793329340481,CCT0000000102,CCT-V01-DRM,Certified Cybersecurity Technician (CCT) Version 1 eBook,DRM,CCT,NA,49.99,NA,NA,NA,NA
+29,7793329438785,CCT000001012807,CCT-V01-DRM-Lab-EV-RPS,Certified Cybersecurity Technician (CCT) Version 1 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CCT,NA,447.99,NA,NA,NA,NA
+30,7793329471553,ECDE000000202,ECDE-V02-DRM,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook,DRM,CDE,NA,200.0,NA,NA,NA,NA
+31,7793329504321,ECDE00000020404,ECDE-V02-EV-ECC,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Exam Voucher,ECC EV,CDE,NA,NA,327.5,250.0,NA,NA
+32,7793329537089,CCT0000000105,CCT-V01-iLAB,Certified Cybersecurity Technician (CCT) Version 1 Lab,Lab,CCT,129.69,99.0,NA,NA,NA,NA
+33,7793329569857,ECDE00000020407,ECDE-V02-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Exam Voucher (RPS),PU EV,CDE,NA,NA,458.5,350.0,NA,NA
+34,7793329668161,ECDE00001022804,ECDE-V02-DRM-Lab-EV-ECC,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CDE,NA,599.0,NA,NA,NA,NA
+35,7793329700929,ECDE00001022807,ECDE-V02-DRM-Lab-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CDE,NA,699.0,NA,NA,NA,NA
+36,7793329733697,ECDE000010224,ECDE-V02-DRM-Lab,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook with Lab,DRM + Lab,CDE,NA,374.0,NA,NA,NA,NA
+37,7793329766465,CSCU00001032307,CSCU-V03-DRMVS-EV-RPS,Certified Secure Computer User (CSCU) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,CSCU,NA,74.99,NA,NA,NA,NA
+38,7793329832001,CSCU00001032304,CSCU-V03-DRMVS-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook with Exam Voucher,DRM W/ECC EV,CSCU,NA,44.99,NA,NA,NA,NA
+39,7793329864769,CSCU00000030524,CSCU-V03-iLAB-STDALONE,Certified Secure Computer User (CSCU) Version 3 Lab,Lab,CSCU,26.19,20.0,NA,NA,NA,NA
+40,7793329897537,CSCU00000030404,CSCU-V03-EV-ECC,Certified Secure Computer User (CSCU) Version 3 Exam Voucher,ECC EV,CSCU,NA,NA,32.75,25.0,NA,NA
+41,7793329995841,CSCU00000030407,CSCU-V03-EV-RPS,Certified Secure Computer User (CSCU) Version 3 Exam Voucher (RPS),PU EV,CSCU,NA,NA,72.05,55.0,NA,NA
+42,7793330028609,ECIH000000302,ECIH-V03-DRM,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook,DRM,ECIH,NA,180.0,NA,NA,NA,NA
+43,7793330094145,ECIH00000030404,ECIH-V03-EV-ECC,EC-Council Cerified Incident Handler (ECIH) Version 3 Exam Voucher,ECC EV,ECIH,NA,NA,196.5,150.0,NA,NA
+44,7793330192449,CCT000000010407,CCT-V01-EV-RPS,Certified Cybersecurity Technician (CCT) Version 1 Exam Voucher (RPS),PU EV,CCT,NA,NA,326.19,249.0,NA,NA
+45,7793330978881,ECDE000000205,ECDE-V02-Lab,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Lab,Lab,CDE,NA,199.0,NA,NA,NA,NA
+46,7793333338177,ECIH00000030407,ECIH-V03-EV-RPS,EC-Council Cerified Incident Handler (ECIH) Version 3 Exam Voucher (RPS),PU EV,ECIH,NA,NA,327.5,250.0,NA,NA
+47,7793333370945,EDRP00001032204,EDRP-V03-DRM-EV-ECC,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher,DRM W/ECC EV,EDRP,NA,522.5,NA,NA,NA,NA
+48,7793333502017,ECIH00001032804,ECIH-V03-DRM-Lab-EV-ECC,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,ECIH,NA,479.0,NA,NA,NA,NA
+49,7793333534785,ECIH00001032807,ECIH-V03-DRM-Lab-EV-RPS,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,ECIH,NA,579.0,NA,NA,NA,NA
+50,7793333567553,ECIH000010324,ECIH-V03-DRM-Lab,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook with Lab,DRM + Lab,ECIH,NA,354.0,NA,NA,NA,NA
+51,7793333665857,ECIH000000305,ECIH-V03-Lab,EC-Council Certified Incident Handler (ECIH) Version 3 Lab,Lab,ECIH,NA,199.0,NA,NA,NA,NA
+52,7793334190145,CHFI00001112207,CHFI-V11-DRM-EV-RPS,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher (RPS),DRM W/PU EV,CHFI,NA,650.0,NA,NA,NA,NA
+53,7793334222913,CHFI000001102,CHFI-V11-DRM,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook,DRM,CHFI,NA,275.0,NA,NA,NA,NA
+54,7793334288449,CHFI000001106,CHFI-V11-PREP,Computer Hacking Forensic Investigator (CHFI) Version 11 Exam Prep,Prep EV,CHFI,NA,NA,129.69,99.0,NA,NA
+55,7793334321217,CHFI00000110404,CHFI-V11-EV-ECC,Computer Hacking Forensic Investigator (CHFI) Version 11 Exam Voucher,ECC EV,CHFI,NA,NA,393.0,300.0,NA,NA
+56,7793334353985,CHFI00001112807,CHFI-V11-DRM-Lab-EV-RPS,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CHFI,NA,824.0,NA,NA,NA,NA
+57,7793334386753,CHFI00001112804,CHFI-V11-DRM-Lab-EV-ECC,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CHFI,NA,724.0,NA,NA,NA,NA
+58,7793334419521,CHFI000001105,CHFI-V11-iLAB,Computer Hacking Forensic Investigator (CHFI) Version 11 Lab,Lab,CHFI,260.69,199.0,NA,NA,NA,NA
+59,7793334452289,CHFI00001112204,CHFI-V11-DRM-EV-ECC,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher,DRM W/ECC EV,CHFI,NA,550.0,NA,NA,NA,NA
+60,7793334485057,CHFI000011124,CHFI-V11-DRM-Lab,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Lab,DRM + Lab,CHFI,NA,449.0,NA,NA,NA,NA
+61,7793334517825,CND0000000302,CND-V03-DRM,Certified Network Defender (CND) Version 3  eBook,DRM,CND,NA,200.0,NA,NA,NA,NA
+62,7793334550593,CHFI00000110407,CHFI-V11-EV-RPS,Computer Hacking Forensic Investigator (CHFI) Version 11 Exam Voucher (RPS),PU EV,CHFI,NA,NA,524.0,400.0,NA,NA
+63,7793334583361,CND0000000306,CND-V03-PREP,Certified Network Defender (CND) Version 3 Exam Prep,Prep EV,CND,NA,NA,129.69,99.0,NA,NA
+64,7793334616129,CND000000030406,CND-V03-EV-VUE,Certified Network Defender (CND) Version 3 Exam Voucher (VUE),VUE EV,CND,NA,NA,589.5,450.0,NA,NA
+65,7793334648897,CND000000030404,CND-V03-EV-ECC,Certified Network Defender (CND) Version 3 Exam Voucher,ECC EV,CND,NA,NA,327.5,250.0,NA,NA
+66,7793334681665,CND000000030407,CND-V03-EV-RPS,Certified Network Defender (CND) Version 3 Exam Voucher (RPS),PU EV,CND,NA,NA,458.5,350.0,NA,NA
+67,7793334714433,CND000001032206,CND-V03-DRM-EV-VUE,Certified Network Defender (CND) Version 3  eBook with Exam Voucher (VUE),DRM W/VUE EV,CND,NA,625.0,NA,NA,NA,NA
+68,7793334747201,CND000001032207,CND-V03-DRM-EV-RPS,Certified Network Defender (CND) Version 3  eBook with Exam Voucher (RPS),DRM W/PU EV,CND,NA,525.0,NA,NA,NA,NA
+69,7793334779969,CND000001032204,CND-V03-DRM-EV-ECC,Certified Network Defender (CND) Version 3  eBook with Exam Voucher,DRM W/ECC EV,CND,NA,425.0,NA,NA,NA,NA
+70,7793334812737,CND0000010324,CND-V03-DRM-Lab,Certified Network Defender (CND) Version 3 eBook with Lab,DRM + Lab,CND,NA,374.0,NA,NA,NA,NA
+71,7793334845505,CND000001032804,CND-V03-DRM-Lab-EV-ECC,Certified Network Defender (CND) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CND,NA,599.0,NA,NA,NA,NA
+72,7793334878273,CND000001032807,CND-V03-DRM-Lab-EV-RPS,Certified Network Defender (CND) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CND,NA,699.0,NA,NA,NA,NA
+73,7793334911041,CTIA00000020404,CTIA-V02-EV-ECC,Certified Threat Intelligence Analyst (CTIA) Version 2 Exam Voucher,ECC EV,CTIA,NA,NA,196.5,150.0,NA,NA
+74,7793334943809,CND0000000305,CND-V03-iLAB,Certified Network Defender (CND) Version 3 Lab,Lab,CND,260.69,199.0,NA,NA,NA,NA
+75,7793334976577,CND000001032806,CND-V03-DRM-Lab-EV-VUE,Certified Network Defender (CND) Version 3 eBook with Exam Voucher (VUE) & Lab,DRM W/VUE EV + Lab,CND,NA,799.0,NA,NA,NA,NA
+76,7793335009345,CTIA00000020407,CTIA-V02-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 Exam Voucher (RPS),PU EV,CTIA,NA,NA,327.5,250.0,NA,NA
+77,7793335042113,CTIA000000202,CTIA-V02-DRM,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook,DRM,CTIA,NA,180.0,NA,NA,NA,NA
+78,7793335074881,CTIA00001022204,CTIA-V02-DRM-EV-ECC,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher,DRM W/ECC EV,CTIA,NA,305.0,NA,NA,NA,NA
+79,7793335107649,CTIA000010224,CTIA-V02-DRM-Lab,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Lab,DRM + Lab,CTIA,NA,254.0,NA,NA,NA,NA
+80,7793335140417,CTIA00001022807,CTIA-V02-DRM-Lab-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CTIA,NA,479.0,NA,NA,NA,NA
+81,7793335173185,CTIA00001022207,CTIA-V02-DRM-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS),DRM W/PU EV,CTIA,NA,405.0,NA,NA,NA,NA
+82,7793335205953,CTIA00001022804,CTIA-V02-DRM-Lab-EV-ECC,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CTIA,NA,379.0,NA,NA,NA,NA
+83,7793335238721,,,"Certified Ethical Hacker V13 E Courseware, Practical Exam Voucher",,,NA,950.0,NA,NA,NA,NA
+84,7793335304257,CEH0000001305,CEH-V13-Lab,Certified Ethical Hacker (CEH) Version 13 Lab,Lab,CEH,NA,199.0,NA,NA,NA,NA
+85,7793335468097,CTIA000000205,CTIA-V02-Lab,Certified Threat Intelligence Analyst (CTIA) Version 2 Lab,Lab,CTIA,NA,99.0,NA,NA,NA,NA
+86,7793335566401,CEH000001132207,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,NA,860.0,NA,NA,NA,NA
+87,7793335697473,CEH000001132206,CEH-V13-DRM-EV-VUE,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE),DRM W/VUE EV,CEH,NA,960.0,NA,NA,NA,NA
+88,7793336025153,CEH0000011361,CEH-V13-iLEARN-US,"Certified Ethical Hacker (CEH) Version 13 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CEH,NA,NA,NA,NA,1699.0,1699.0
+89,7793336188993,CTIA000010261,CTIA-V02-iLEARN-US,"Certified Threat Intelligence Analyst (CTIA) Version 2 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CTIA,NA,NA,NA,NA,999.0,999.0
+90,7793336418369,ECDE000010261,ECDE-V02-iLEARN-US,"EC-Council Certified DevSecOps Engineer (ECDE) Version 2 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CDE,NA,NA,NA,NA,999.0,999.0
+91,7793336451137,RM000000164,RM-iLEARN,Risk Management Approach & Practices iLearn Kit,iLearn,RM,NA,NA,NA,NA,999.0,999.0
+92,7793336483905,DWF00000064,DWF-iLEARN,Dark Web Forensics Deep Dive Workshop iLearn Kit,iLearn,DWF,NA,NA,NA,NA,699.0,699.0
+93,7793336516673,MMDD0000064,MMDD-iLEARN,Malware & Memory Deep Dive Workshop iLearn Kit,iLearn,MMDD,NA,NA,NA,NA,499.0,499.0
+94,7793336549441,CPENT00010261,CPENT-V02-iLEARN-US,"Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, eBook, 6 Months Labs Access",iLearn W/O ECC EV,CPENT,NA,NA,NA,NA,1999.0,1999.0
+95,7793336614977,WAHS0000164,WAHS-iLEARN,Web Application Hacking & Security iLearn Kit,iLearn,WAHS,NA,NA,NA,NA,999.0,999.0
+96,7793337040961,MFDD000064,MFDD-iLEARN,Mobile Forensics Deep Dive Workshop-Video iLearn Kit,iLearn,MFDD,NA,NA,NA,NA,499.0,499.0
+97,7793342578753,CSCU000010364,CSCU-V03-iLEARN,Certified Secure Computer User (CSCU) Version 3 iLearn Kit,iLearn,CSCU,NA,NA,NA,NA,149.0,149.0
+98,7793342611521,TIE0000010164,TIE-V01-iLEARN,Threat Intelligence Essentials (TIE) Version 1 iLearn Kit,iLearn,TIE,NA,NA,NA,NA,299.0,299.0
+99,7793342644289,CSE0000010164,CSE-V01-iLEARN,Cloud Security Essentials (CSE) Version 1 iLearn Kit,iLearn,CSE,NA,NA,NA,NA,299.0,299.0
+100,7793342709825,ISE0000010164,ISE-V01-iLEARN,IoT Security Essentials (ISE) Version 1 iLearn Kit,iLearn,ISE,NA,NA,NA,NA,299.0,299.0
+101,7793342742593,DSE0000010164,DSE-V01-iLEARN,DevSecOps Essentials (DSE) Version 1 iLearn Kit,iLearn,DSE,NA,NA,NA,NA,299.0,299.0
+102,7793342775361,SCE0000010164,SCE-V01-iLEARN,SOC Essentials (SCE) Version 1 iLearn Kit,iLearn,SCE,NA,NA,NA,NA,299.0,299.0
+103,7793342840897,DFE0000010164,DFE-V01-iLEARN,Digital Forensics Essentials  (DFE) Version 1 iLearn Kit,iLearn,DFE,NA,NA,NA,NA,299.0,299.0
+104,7793342873665,NDE0000010164,NDE-V01-iLEARN,Network Defense Essentials (NDE) Version 1 iLearn Kit,iLearn,NDE,NA,NA,NA,NA,299.0,299.0
+105,7793342906433,EHE0000010164,EHE-V01-iLEARN,Ethical Hacking Essentials (EHE) Version 1 iLearn Kit,iLearn,EHE,NA,NA,NA,NA,299.0,299.0
+106,7793343103041,,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (Onsite),iLabs,Exam Retake (1),Ethical Hacking Video,CEH Engage,Global CEH Challenge,CEH Practical.",,,NA,1055.6,NA,NA,NA,NA
+107,7793343168577,,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (Vue),iLabs,Exam Retake (1),Ethical Hacking Video,CEH Engage,Global CEH Challenge,CEH Practical.",,,NA,1158.84,NA,NA,NA,NA
+108,7793343201345,,,"Certified Ethical Hacker V13 E Courseware ,Exam Voucher (RPS),iLabs,Exam Retake (1),Ethical Hacking Video,CEH Engage,Global CEH Challenge,CEH Practical.",,,NA,1158.84,NA,NA,NA,NA
+109,7913450045505,,,ATC Renewal Product,,,NA,250.0,NA,NA,NA,NA
+110,7920215425089,CASEJAVA10161,CASEJAVA-V01-iLEARN-US,"Certified Application Security Engineer (CASE) JAVA Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CASE,NA,NA,NA,NA,999.0,999.0
+111,7920215457857,CASENET0101,CASENET-V01-iLEARN-US,"Certified Application Security Engineer (CASE) .NET Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,NA,999.0,NA,NA,NA,NA
+112,7920215523393,CODERED007303,CODERED-PRO+-UPG,EC Council Pro + Add-on,SaaS - Annual Subscription,CODERED Pro+,NA,NA,NA,NA,500.0,500.0
+113,7920215556161,CCSE000010261,CCSE-V02-iLEARN-US,"Certified Cloud Security Engineer (CCSE) Version 2 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CCSE,NA,NA,NA,NA,1699.0,1699.0
+114,7920215621697,CCT00000101,CCT-V01-iLEARN-US,"Certified Cybersecurity Technician (CCT) Version 1 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,NA,599.0,NA,NA,NA,NA
+115,7920215687233,CEH00000113,112390000493342070,"Certified Ethical Hacker (CEH) Version 13 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,NA,1699.0,NA,NA,NA,NA
+116,7920215720001,CHFI0000111,CHFI-V11-iLEARN-US,"Computer Hacking Forensic Investigator (CHFI) Version 11 - Includes 1 Year Access To Videos, e-Courseware And 6 Months iLabs Access",,,NA,1699.0,NA,NA,NA,NA
+117,7920215785537,CND0000010361,CND-V03-iLEARN-US,"Certified Network Defender (CND) Version 3 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CND,NA,NA,NA,NA,1699.0,1699.0
+118,7920215818305,CSA0000010261,CSA-V02-iLEARN-US,"Certified SOC Analyst (CSA) Version 2 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CSA,NA,NA,NA,NA,999.0,999.0
+119,7920215883841,ECES000010361,ECES-V03-iLEARN-US,"EC-Council Certified Encryption Specialist (ECES) Version 3 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,ECES,NA,NA,NA,NA,1150.0,1150.0
+120,7920215916609,ECIH000010361,ECIH-V03-iLEARN-US,"EC-Council Certified Incident Handler (ECIH) Version 3 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,ECIH,NA,NA,NA,NA,999.0,999.0
+121,7920215949377,EHCS000010161,EHCS-V01-iLEARN-US,"Ethical Hacking Core Skills (EHCS) Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,EHCS,NA,NA,NA,NA,1699.0,1699.0
+122,7920216014913,ICSSCADA10161,ICSSCADA-V01-iLEARN-US,"Industrial Control Systems / Supervisory Control and Data Acquisition (ICS/SCADA) Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,ICS/SCADA,NA,NA,NA,NA,999.0,999.0
+123,7920216047681,CPENT000002040761,CPENT-V02-EV-RPS-iLEARN-US,Certified Penetration Testing Professional (CPENT) Version 2 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CPENT,NA,NA,NA,NA,500.0,500.0
+124,7920216113217,CASENET0001040761,CASENET-V01-EV-RPS-iLEARN-US,Certified Application Security Engineer (CASE) .NET Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CASE,NA,NA,NA,NA,400.0,400.0
+125,7920216145985,CASEJAVA001040761,CASEJAVA-V01-EV-RPS-iLEARN-US,Certified Application Security Engineer (CASE) JAVA Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CASE,NA,NA,NA,NA,400.0,400.0
+126,7920216178753,CSA00000002040761,CSA-V02-EV-RPS-iLEARN-US,Certified SOC Analyst (CSA) Version 2 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CSA,NA,NA,NA,NA,400.0,400.0
+127,7920216244289,ECES0000003040761,ECES-V03-EV-RPS-iLEARN-US,EC-Council Certified Encryption Specialist (ECES) Version 3 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,ECES,NA,NA,NA,NA,249.0,249.0
+128,7920216277057,ICSSCADA001040761,ICSSCADA-V01-EV-RPS-iLEARN-US,Industrial Control Systems / Supervisory Control and Data Acquisition (ICS/SCADA) Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,ICS/SCADA,NA,NA,NA,NA,400.0,400.0
+129,7920216342593,CCT00000001040761,CCT-V01-EV-RPS-iLEARN-US,Certified Cybersecurity Technician (CCT) Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CCT,NA,NA,NA,NA,400.0,400.0
+130,7920216375361,ECDE0000002040761,ECDE-V02-EV-RPS-iLEARN-US,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CDE,NA,NA,NA,NA,400.0,400.0
+131,7920216408129,ECIH0000003040761,ECIH-V03-EV-RPS-iLEARN-US,EC-Council Cerified Incident Handler (ECIH) Version 3 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,ECIH,NA,NA,NA,NA,400.0,400.0
+132,7920216473665,CCSE0000002040761,CCSE-V02-EV-RPS-iLEARN-US,Certified Cloud Security Engineer (CCSE) Version 2 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CCSE,NA,NA,NA,NA,500.0,500.0
+133,7920216506433,CHFI0000011040761,CHFI-V11-EV-RPS-iLEARN-US,Computer Hacking Forensic Investigator (CHFI) Version 11 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CHFI,NA,NA,NA,NA,500.0,500.0
+134,7920216571969,CND00000003040761,CND-V03-EV-RPS-iLEARN-US,Certified Network Defender (CND) Version 3 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CND,NA,NA,NA,NA,500.0,500.0
+135,7920216637505,CTIA0000002040761,CTIA-V02-EV-RPS-iLEARN-US,Certified Threat Intelligence Analyst (CTIA) Version 2 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CTIA,NA,NA,NA,NA,400.0,400.0
+136,7920216703041,CCISO000004040761,CCISO-V04-EV-RPS-iLEARN-US,Certified Chief Information Security Officer (CCISO) Version 4 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,PU EV + Retake PU EV,CCISO,NA,NA,NA,NA,500.0,500.0
+137,7920216735809,CEH00000013040761,CEH-V13-EV-RPS-iLEARN-US,"Certified Ethical Hacker (CEH) Version 13 - Includes 1 ANSI ECC Voucher w/RPS, 1 Free ANSI ECC Voucher w/RPS Retake, 1 Practical Voucher And 1 Free Retake Practical Voucher",PU EV + Retake PU EV,CEH,NA,NA,NA,NA,500.0,500.0
+138,7920216801345,CCISO00010461,CCISO-V04-iLEARN-US,Certified Chief Information Security Officer (CCISO) Version 4 - Includes 1 Year Access To Videos And eBook,iLearn W/O ECC EV,CCISO,NA,NA,NA,NA,1999.0,1999.0
+139,7920216834113,CAIPM00010161,CAIPM-V01-iLEARN-US,"Certified AI Program Manager (CAIPM) Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CAIPM,NA,NA,NA,NA,999.0,999.0
+140,7920216899649,COASP00010161,COASP-V01-iLEARN-US,"Certified Offensive AI Security Professional (COAISP) Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,COASP,NA,NA,NA,NA,1699.0,1699.0
+141,7920216965185,CRAGE00010161,CRAGE-V01-iLEARN-US,"Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 - Includes 1 Year Access To Videos, eBook",iLearn W/O ECC EV,CRAGE,NA,NA,NA,NA,999.0,999.0
+142,7920216997953,AIE0000010164,AIE-V01-iLEARN,Artificial Intelligence Essentials (AIE) Version 1 iLearn Kit,iLearn,AIE,NA,NA,NA,NA,299.0,299.0
+143,7976244281409,ATC00000068,ATC-APPFEE,ATC Application Fee,Application Fee,ATC Fee,655.0,500.0,NA,NA,NA,NA
+144,7976244576321,CSCU00001032907,CSCU-V03-DRMVS-iLAB-EV-RPS,Certified Secure Computer User (CSCU) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CSCU,124.42,95.0,NA,NA,NA,NA
+145,7976245559361,CRAGE000001040761,CRAGE-V01-EV-RPS-iLEARN-US,Certified Responsible AI Governance & Ethics Professional (CRAGE) Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,iLearn W/O ECC EV,CRAGE,NA,NA,NA,NA,400.0,400.0
+146,7976245592129,COASP000001040761,COASP-V01-EV-RPS-iLEARN-US,Certified Offensive AI Security Professional (COASP) Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,iLearn W/O ECC EV,COASP,NA,NA,NA,NA,500.0,500.0
+147,7976245657665,CAIPM000001040761,CAIPM-V01-EV-RPS-iLEARN-US,Certified AI Program Manager (CAIPM) Version 1 - Includes 1 ECC Voucher w/RPS And 1 Free ECC Voucher w/RPS Retake,iLearn W/O ECC EV,CAIPM,NA,NA,NA,NA,400.0,400.0
+148,7976245723201,CPM0000010164,CPM-V01-iLEARN,Certified Project Manager (CPM) Version 1 iLearn Kit - Includes 1 Year Access To Videos and e-Courseware and 1 ECC Voucher w/RPS,,,NA,999.0,NA,NA,NA,NA
+149,7976245755969,NDE0000010264,NDE-V02-iLEARN,Network Defense Essentials (NDE) Version 2 iLearn Kit,iLearn,NDE,NA,NA,NA,NA,299.0,299.0
+150,7976245788737,DFE0000010264,DFE-V02-iLEARN,Digital Forensics Essentials  (DFE) Version 2 iLearn Kit,iLearn,DFE,NA,NA,NA,NA,299.0,299.0
+151,7976245821505,EHE0000010264,EHE-V02-iLEARN,Ethical Hacking Essentials (EHE) Version 2 iLearn Kit,iLearn,EHE,NA,NA,NA,NA,299.0,299.0
+152,7976261091393,CSCU000000303,CSCU-V03-DRMVS,Certified Secure Computer User (CSCU) Version 3  eBook,DRM,CSCU,26.19,19.99,NA,NA,NA,NA
+153,7976261124161,CCISO0001032204,CCISO-V03-DRM-EV-ECC,Certified Chief Information Security Officer (CCISO) Version 3 eBook with Exam Voucher,DRM W/ECC EV,CCISO,982.5,750.0,NA,NA,NA,NA
+154,7976261156929,NDE00000101664111,NDE-V01-DRM-iLAB-EV-RPS-PREP-ECL,"Network Defense Essentials (NDE) Version 1 eBook with Exam Voucher (RPS), Exam Prep & Lab",DRM W/PU EV + Lab + Prep EV,NDE,129.69,99.0,NA,NA,NA,NA
+155,7976261222465,NDE00000101964111,NDE-V01-DRM-iLAB-EV-ECC-PREP-ECL,"Network Defense Essentials (NDE) Version 1 eBook with Exam Voucher, Exam Prep & Lab",DRM W/ECC EV + Lab + Prep EV,NDE,111.28,84.95,NA,NA,NA,NA
+156,7976261255233,EHE00000101664111,EHE-V01-DRM-iLAB-EV-RPS-PREP-ECL,"Ethical Hacking Essentials (EHE) Version 1 eBook with Exam Voucher (RPS), Exam Prep & Lab",DRM W/PU EV + Lab + Prep EV,EHE,129.69,99.0,NA,NA,NA,NA
+157,7976261288001,EHE00000101964111,EHE-V01-DRM-iLAB-EV-ECC-PREP-ECL,"Ethical Hacking Essentials (EHE) Version 1 eBook with Exam Voucher, Exam Prep & Lab",DRM W/ECC EV + Lab + Prep EV,EHE,111.28,84.95,NA,NA,NA,NA
+158,7976261320769,ECDE000000206,ECDE-V02-PREP,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Exam Prep,Prep EV,CDE,NA,NA,129.69,99.0,NA,NA
+159,7976261353537,DFE00000101664111,DFE-V01-DRM-iLAB-EV-RPS-PREP-ECL,"Digital Forensics Essentials  (DFE) Version 1 eBook with Exam Voucher (RPS), Exam Prep & Lab",DRM W/PU EV + Lab + Prep EV,DFE,129.69,99.0,NA,NA,NA,NA
+160,7976261386305,DFE00000101964111,DFE-V01-DRM-iLAB-EV-ECC-PREP-ECL,"Digital Forensics Essentials  (DFE) Version 1 eBook with Exam Voucher, Exam Prep & Lab",DRM W/ECC EV + Lab + Prep EV,DFE,111.28,84.95,NA,NA,NA,NA
+161,7976261419073,CSCU00001032904,CSCU-V03-DRMVS-iLAB-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CSCU,85.12,65.0,NA,NA,NA,NA
+162,7976261451841,CSA0000000206,CSA-V02-PREP,Certified SOC Analyst (CSA) Version 2 Exam Prep,Prep EV,CSA,NA,NA,129.69,99.0,NA,NA
+163,7976261484609,CRAGE0000010407,CRAGE-V01-EV-RPS,Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 Exam Voucher (RPS),PU EV,CRAGE,NA,NA,329.0,250.0,NA,NA
+164,7976261517377,CRAGE0000010404,CRAGE-V01-EV-ECC,Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 Exam Voucher,ECC EV,CRAGE,NA,NA,195.0,150.0,NA,NA
+165,7976261550145,CRAGE0001012207,CRAGE-V01-DRM-EV-RPS,Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 eBook with Exam Voucher (RPS),DRM W/PU EV,CRAGE,534.0,409.0,NA,NA,NA,NA
+166,7976261582913,CRAGE0001012204,CRAGE-V01-DRM-EV-ECC,Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 eBook with Exam Voucher,DRM W/ECC EV,CRAGE,404.0,309.0,NA,NA,NA,NA
+167,7976261648449,CRAGE00000106,CRAGE-V01-PREP,Certified Responsible AI Governance & Ethics Professional (C-RAGE) Version 1 Exam Prep,Prep EV,CRAGE,NA,NA,129.0,99.0,NA,NA
+168,7976261713985,COASP0000010407,COASP-V01-EV-RPS,Certified Offensive AI Security Professional (COASP) Version 1 Exam Voucher (RPS),PU EV,COASP,NA,NA,525.0,400.0,NA,NA
+169,7976261746753,COASP0001012807,COASP-V01-DRM-iLAB-EV-RPS,Certified Offensive AI Security Professional (COASP) Version 1 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,COASP,954.0,729.0,NA,NA,NA,NA
+170,7976261779521,COASP00000106,COASP-V01-PREP,Certified Offensive AI Security Professional (COASP) Version 1 Exam Prep,Prep EV,COASP,NA,NA,129.0,99.0,NA,NA
+171,7976261845057,CEH0000001205,CEH-V12-iLAB,Certified Ethical Hacker (CEH) Version 12 Lab,Lab,CEH,260.69,199.0,NA,NA,NA,NA
+172,7976261877825,CCT0000010124,CCT-V01-DRM-iLAB,Certified Cybersecurity Technician (CCT) Version 1 eBook with Lab,DRM + Lab,CCT,293.99,223.99,NA,NA,NA,NA
+173,7976261910593,CCISO0000040600,CCISO-V04-PREP,Certified Chief Information Security Officer (CCISO) Version 4 Exam Prep,Prep EV,CCISO,NA,NA,129.0,99.0,NA,NA
+174,7976261943361,CCISO0001042207,CCISO-V04-DRM-EV-RPS,Certified Chief Information Security Officer (CCISO) Version 4 eBook with Exam Voucher (RPS),DRM W/PU EV,CCISO,982.0,750.0,NA,NA,NA,NA
+175,7976261976129,CCISO0001042204,CCISO-V04-DRM-EV-ECC,Certified Chief Information Security Officer (CCISO) Version 4 eBook with Exam Voucher,DRM W/ECC EV,CCISO,982.0,750.0,NA,NA,NA,NA
+176,7976262041665,CCISO00000402,CCISO-V04-DRM,Certified Chief Information Security Officer (CCISO) Version 4 eBook,DRM,CCISO,524.0,400.0,NA,NA,NA,NA
+177,7976262074433,CAIPM0000010407,CAIPM-V01-EV-RPS,Certified AI Program Manager (CAIPM) Version 1 Exam Voucher (RPS),PU EV,CAIPM,NA,NA,329.0,250.0,NA,NA
+178,7976262139969,CAIPM0000010404,CAIPM-V01-EV-ECC,Certified AI Program Manager (CAIPM) Version 1 ECC Exam Voucher,ECC EV,CAIPM,NA,NA,195.0,150.0,NA,NA
+179,7976262172737,CAIPM0001012207,CAIPM-V01-DRM-EV-RPS,Certified AI Program Manager (CAIPM) Version 1 eBook with Exam Voucher (RPS),DRM W/PU EV,CAIPM,534.0,409.0,NA,NA,NA,NA
+180,7976262205505,CAIPM0001012204,CAIPM-V01-DRM-EV-ECC,Certified AI Program Manager (CAIPM) Version 1 eBook with Exam Voucher,DRM W/ECC EV,CAIPM,404.0,309.0,NA,NA,NA,NA
+181,7976262238273,CAIPM00000106,CAIPM-V01-PREP,Certified AI Program Manager (CAIPM) Version 1 Exam Prep,Prep EV,CAIPM,NA,NA,129.0,99.0,NA,NA
+182,7976262271041,AIE00000001040711,AIE-V01-EV-RPS-ECL,Artificial Intelligence Essentials (AIE) Version 1 Exam Voucher (RPS),PU EV,AIE,NA,NA,65.0,50.0,NA,NA
+183,7976262303809,AIE00000001040411,AIE-V01-EV-ECC-ECL,Artificial Intelligence Essentials (AIE) Version 1 ECC Exam Voucher,ECC EV,AIE,NA,NA,33.0,25.0,NA,NA
+184,7976262336577,AIE00000101280711,AIE-V01-DRM-iLAB-EV-RPS-ECL,Artificial Intelligence Essentials (AIE) Version 1 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,AIE,112.0,85.0,NA,NA,NA,NA
+185,7976262369345,AIE00000101964111,AIE-V01-DRM-iLAB-EV-ECC-PREP-ECL,"Artificial Intelligence Essentials (AIE) Version 1 eBook with Exam Voucher, Lab & Exam Prep",DRM W/ECC EV + Lab + Prep EV,AIE,112.0,85.0,NA,NA,NA,NA
+186,7976262402113,AIE000001012411,AIE-V01-DRM-iLAB-ECL,Artificial Intelligence Essentials (AIE) Version 1 eBook with Lab,DRM + Lab,AIE,65.0,50.0,NA,NA,NA,NA
+187,7976262533185,ATC0000006825,ATC-APPFEE-REN,ATC Application Fee Renewal,Application Fee,ATC R Fee,327.5,250.0,NA,NA,NA,NA
+188,7976264433729,CEH000001131806,CEH-V13-ELITE-VUE,Certified Ethical Hacker (CEH) Version 13 Elite with Exam Voucher (VUE),DRM W/VUE EV + Lab + Prep EV + ECC EV - Practical,CEH,1388.6,1060.0,NA,NA,NA,NA
+189,7976264466497,CEH000001131807,CEH-V13-ELITE-RPS,Certified Ethical Hacker (CEH) Version 13 Elite with Exam Voucher (RPS),DRM W/PU EV + Lab + Prep EV + ECC EV - Practical,CEH,1257.6,960.0,NA,NA,NA,NA
+190,7976264499265,CEH000001131804,CEH-V13-ELITE-ECC,Certified Ethical Hacker (CEH) Version 13 -Elite with Exam Voucher,DRM W/ECC EV + Lab + Prep EV + ECC EV - Practical,CEH,1126.6,860.0,NA,NA,NA,NA
+191,7976264794177,CEH000001132204,CEH-V13-DRM-EV-ECC,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher,DRM W/ECC EV,CEH,NA,760.0,NA,NA,NA,NA
+192,8058878754881,CPENT0001026634,CPENT-V02-DRM-iLAB-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1375.0,1050.0,NA,NA,NA,NA
+193,8058878984257,EDRP000000302,EDRP-V03-DRM,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook,DRM,EDRP,324.23,247.5,NA,NA,NA,NA
+194,8058879311937,EDRP00001032207,EDRP-V03-DRM-EV-RPS,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,EDRP,815.48,622.5,NA,NA,NA,NA
+195,8058879541313,EDRP000010324,EDRP-V03-DRM-iLAB,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Lab,DRM + Lab,EDRP,552.17,421.5,NA,NA,NA,NA
+196,8058879737921,EDRP00001032804,EDRP-V03-DRM-iLAB-EV-ECC,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,EDRP,912.42,696.5,NA,NA,NA,NA
+197,8058879934529,EDRP00001032807,EDRP-V03-DRM-iLAB-EV-RPS,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,EDRP,1043.42,796.5,NA,NA,NA,NA
+198,8058880229441,EDRP000000305,EDRP-V03-iLAB,EC-Council Disaster Recovery Professional (EDRP) Version 3 Lab,Lab,EDRP,260.69,199.0,NA,NA,NA,NA
+199,8058880426049,CSA0000000202,CSA-V02-DRM,Certified SOC Analyst (CSA) Version 2 eBook,DRM,CSA,235.8,180.0,NA,NA,NA,NA
+200,8058880852033,CSA0000000205,CSA-V02-iLAB,Certified SOC Analyst (CSA) Version 2 Lab,Lab,CSA,216.15,165.0,NA,NA,NA,NA
+201,8058881048641,CSA0000010224,CSA-V02-DRM-iLAB,Certified SOC Analyst (CSA) Version 2 eBook with Lab,DRM + Lab,CSA,419.2,320.0,NA,NA,NA,NA
+202,8058881278017,CSA000001022804,CSA-V02-DRM-iLAB-EV-ECC,Certified SOC Analyst (CSA) Version 2 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CSA,582.95,445.0,NA,NA,NA,NA
+203,8058881507393,CSA000001022807,CSA-V02-DRM-iLAB-EV-RPS,Certified SOC Analyst (CSA) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CSA,713.95,545.0,NA,NA,NA,NA
+204,8058881704001,ECES000000302,ECES-V03-DRM,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook,DRM,ECES,235.8,180.0,NA,NA,NA,NA
+205,8058882097217,ECES00001032204,ECES-V03-DRM-EV-ECC,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher,DRM W/ECC EV,ECES,399.55,305.0,NA,NA,NA,NA
+206,8058882588737,ECES00001032207,ECES-V03-DRM-EV-RPS,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,ECES,530.55,405.0,NA,NA,NA,NA
+207,8058883113025,ECES000010324,ECES-V03-DRM-iLAB,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Lab,DRM + Lab,ECES,463.74,354.0,NA,NA,NA,NA
+208,8058883342401,ECES00001032804,ECES-V03-DRM-iLAB-EV-ECC,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,ECES,627.49,479.0,NA,NA,NA,NA
+209,8058883604545,ECES00001032807,ECES-V03-DRM-iLAB-EV-RPS,EC-Council Certified Encryption Specialist (ECES) Version 3 eBook with Exam Voucher (RPS)  & Lab,DRM W/PU EV + Lab,ECES,758.49,579.0,NA,NA,NA,NA
+210,8058883866689,ECES000000305,ECES-V03-iLAB,EC-Council Certified Encryption Specialist (ECES) Version 3 Lab,Lab,ECES,129.69,99.0,NA,NA,NA,NA
+211,8058884096065,CCISO0001032207,CCISO-V03-DRM-EV-RPS,Certified Chief Information Security Officer (CCISO) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,CCISO,982.5,750.0,NA,NA,NA,NA
+212,8058884325441,CCT000001012207,CCT-V01-DRM-EV-RPS,Certified Cybersecurity Technician (CCT) Version 1 eBook with Exam Voucher (RPS),DRM W/PU EV,CCT,358.93,273.99,NA,NA,NA,NA
+213,8058884554817,CCT0000000102,CCT-V01-DRM,Certified Cybersecurity Technician (CCT) Version 1 eBook,DRM,CCT,65.0,49.99,NA,NA,NA,NA
+214,8058884882497,CCT000001012807,CCT-V01-DRM-iLAB-EV-RPS,Certified Cybersecurity Technician (CCT) Version 1 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CCT,586.99,447.99,NA,NA,NA,NA
+215,8058885242945,ECDE000000202,ECDE-V02-DRM,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook,DRM,CDE,262.0,200.0,NA,NA,NA,NA
+216,8058885668929,ECDE000000205,ECDE-V02-iLAB,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 Lab,Lab,CDE,260.69,199.0,NA,NA,NA,NA
+217,8058885931073,ECDE000010224,ECDE-V02-DRM-iLAB,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook with Lab,DRM + Lab,CDE,489.94,374.0,NA,NA,NA,NA
+218,8058886193217,ECDE00001022804,ECDE-V02-DRM-iLAB-EV-ECC,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CDE,784.69,599.0,NA,NA,NA,NA
+219,8058886455361,ECDE00001022807,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CDE,915.69,699.0,NA,NA,NA,NA
+220,8058886684737,CSCU00001032304,CSCU-V03-DRMVS-EV-ECC,Certified Secure Computer User (CSCU) Version 3 eBook with Exam Voucher,DRM W/ECC EV,CSCU,58.94,44.99,NA,NA,NA,NA
+221,8058886914113,CSCU00001032307,CSCU-V03-DRMVS-EV-RPS,Certified Secure Computer User (CSCU) Version 3 eBook with Exam Voucher (RPS),DRM W/PU EV,CSCU,98.24,74.99,NA,NA,NA,NA
+222,8058887405633,ECIH000000302,ECIH-V03-DRM,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook,DRM,ECIH,235.8,180.0,NA,NA,NA,NA
+223,8058887831617,EDRP00001032204,EDRP-V03-DRM-EV-ECC,EC-Council Disaster Recovery Professional (EDRP) Version 3 eBook with Exam Voucher,DRM W/ECC EV,EDRP,684.48,522.5,NA,NA,NA,NA
+224,8058888093761,ECIH000010324,ECIH-V03-DRM-iLAB,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook with Lab,DRM + Lab,ECIH,463.74,354.0,NA,NA,NA,NA
+225,8058888323137,ECIH00001032804,ECIH-V03-DRM-iLAB-EV-ECC,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,ECIH,627.49,479.0,NA,NA,NA,NA
+226,8058888519745,ECIH00001032807,ECIH-V03-DRM-iLAB-EV-RPS,EC-Council Cerified Incident Handler (ECIH) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,ECIH,758.49,579.0,NA,NA,NA,NA
+227,8058888749121,ECIH000000305,ECIH-V03-iLAB,EC-Council Certified Incident Handler (ECIH) Version 3 Lab,Lab,ECIH,260.69,199.0,NA,NA,NA,NA
+228,8058889076801,CHFI000001102,CHFI-V11-DRM,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook,DRM,CHFI,360.25,275.0,NA,NA,NA,NA
+229,8058889568321,CHFI00001112204,CHFI-V11-DRM-EV-ECC,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher,DRM W/ECC EV,CHFI,720.5,550.0,NA,NA,NA,NA
+230,8058889797697,CHFI00001112207,CHFI-V11-DRM-EV-RPS,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher (RPS),DRM W/PU EV,CHFI,851.5,650.0,NA,NA,NA,NA
+231,8058889994305,CHFI000011124,CHFI-V11-DRM-iLAB,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Lab,DRM + Lab,CHFI,588.19,449.0,NA,NA,NA,NA
+232,8058890256449,CHFI00001112804,CHFI-V11-DRM-iLAB-EV-ECC,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CHFI,948.44,724.0,NA,NA,NA,NA
+233,8058890518593,CHFI00001112807,CHFI-V11-DRM-iLAB-EV-RPS,Computer Hacking Forensic Investigator (CHFI) Version 11 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CHFI,1079.44,824.0,NA,NA,NA,NA
+234,8058890911809,CND0000000302,CND-V03-DRM,Certified Network Defender (CND) Version 3  eBook,DRM,CND,262.0,200.0,NA,NA,NA,NA
+235,8058891370561,CND000001032204,CND-V03-DRM-EV-ECC,Certified Network Defender (CND) Version 3  eBook with Exam Voucher,DRM W/ECC EV,CND,556.75,425.0,NA,NA,NA,NA
+236,8058891567169,CND000001032207,CND-V03-DRM-EV-RPS,Certified Network Defender (CND) Version 3  eBook with Exam Voucher (RPS),DRM W/PU EV,CND,687.75,525.0,NA,NA,NA,NA
+237,8058891763777,CND000001032206,CND-V03-DRM-EV-VUE,Certified Network Defender (CND) Version 3  eBook with Exam Voucher (VUE),DRM W/VUE EV,CND,819.0,625.0,NA,NA,NA,NA
+238,8058892025921,CND0000010324,CND-V03-DRM-iLAB,Certified Network Defender (CND) Version 3 eBook with Lab,DRM + Lab,CND,489.94,374.0,NA,NA,NA,NA
+239,8058892058689,CND000001032804,CND-V03-DRM-iLAB-EV-ECC,Certified Network Defender (CND) Version 3 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CND,784.69,599.0,NA,NA,NA,NA
+240,8058892091457,CND000001032807,CND-V03-DRM-iLAB-EV-RPS,Certified Network Defender (CND) Version 3 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CND,915.69,699.0,NA,NA,NA,NA
+241,8058892124225,CND000001032806,CND-V03-DRM-iLAB-EV-VUE,Certified Network Defender (CND) Version 3 eBook with Exam Voucher (VUE) & Lab,DRM W/VUE EV + Lab,CND,1046.69,799.0,NA,NA,NA,NA
+242,8058892156993,CTIA000000202,CTIA-V02-DRM,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook,DRM,CTIA,235.8,180.0,NA,NA,NA,NA
+243,8058892288065,CTIA00001022204,CTIA-V02-DRM-EV-ECC,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher,DRM W/ECC EV,CTIA,399.55,305.0,NA,NA,NA,NA
+244,8058892320833,CTIA00001022207,CTIA-V02-DRM-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS),DRM W/PU EV,CTIA,530.55,405.0,NA,NA,NA,NA
+245,8058892353601,CTIA000010224,CTIA-V02-DRM-iLAB,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Lab,DRM + Lab,CTIA,332.74,254.0,NA,NA,NA,NA
+246,8058892419137,CTIA00001022804,CTIA-V02-DRM-iLAB-EV-ECC,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher & Lab,DRM W/ECC EV + Lab,CTIA,496.49,379.0,NA,NA,NA,NA
+247,8058892451905,CTIA00001022807,CTIA-V02-DRM-iLAB-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CTIA,627.49,479.0,NA,NA,NA,NA
+248,8058892484673,CTIA000000205,CTIA-V02-iLAB,Certified Threat Intelligence Analyst (CTIA) Version 2 Lab,Lab,CTIA,129.69,99.0,NA,NA,NA,NA
+249,8058892550209,CEH000001132204,CEH-V13-DRM-EV-ECC,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher,DRM W/ECC EV,CEH,995.6,760.0,NA,NA,NA,NA
+250,8058892648513,CEH0000001305,CEH-V13-iLAB,Certified Ethical Hacker (CEH) Version 13 Lab,Lab,CEH,261.0,199.0,NA,NA,NA,NA
+251,8058892714049,CEH000001132207,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1126.6,860.0,NA,NA,NA,NA
+252,8058892746817,CEH000001132206,CEH-V13-DRM-EV-VUE,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE),DRM W/VUE EV,CEH,1257.6,960.0,NA,NA,NA,NA
+253,8085514715201,CPM0000010164,CPM-V01-iLEARN,Certified Project Manager (CPM) Version 1 iLearn Kit,iLearn,CPM,NA,NA,999.0,NA,999.0,NA
+254,8085515010113,CHFI000011161,CHFI-V11-iLEARN-US,"Computer Hacking Forensic Investigator (CHFI) Version 11 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CHFI,NA,NA,1699.0,NA,1699.0,NA
+255,8085515042881,CCT0000010161,CCT-V01-iLEARN-US,"Certified Cybersecurity Technician (CCT) Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CCT,NA,NA,599.0,NA,599.0,NA
+256,8085515108417,CASENET010161,CASENET-V01-iLEARN-US,"Certified Application Security Engineer (CASE) .NET Version 1 - Includes 1 Year Access To Videos, eBook And 6 Months Labs Access",iLearn W/O ECC EV,CASE,NA,NA,999.0,NA,999.0,NA

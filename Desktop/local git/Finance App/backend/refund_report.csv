@@ -1,0 +1,3273 @@
+﻿Report Name,Refund Report
+Store Name,b2b-uat.myshopify.com
+Generated On,26-Aug-2026 02:10:07 PM
+Export Time Range,11-Aug-2026 to 27-Aug-2026
+
+S. No,Record Type,order date,Order Name,Refund Request ID,Email ID,Refund Status,Product SKU,Product Name,Product Type,Product Category,Qty,List Price,Order Value,Discount Value,Subtotal,Tax Value,Shipping Charge,Grand Total,Restocking Fee,Restocking Fee Tax,Total Restocking Fee,Total Refund,Refunded At,Refund at Store credit,Reason for return,Currency,Partner Cert ID,Partner SAP id,Partner Name,Partner Type,Billing address,Billing City,Billing State Name,Billing State,Billing country full name,Billing Country,Billing Zip Code,Shipping address,Shipping City,Shipping State Name,Shipping State,Shipping country full name,Shipping Country,Shipping Zip Code,Sales Rep. Name,Sales Rep. Emp Code,Payment Reference,Payment Method,Payment Amt,Paid at (Date),Entity Name,sales_org Code,Entity,Division Name,Division Code,Profit Center,Payment Terms,Next Payment Due At,Comments,Fulfillment Status,Fulfilled at,Discount Code
+1,REFUND,26-08-2026,#1811,#1811-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1811.2,manual,1468.84,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:57:35 AM UTC
+
+Return ID: 13718159425
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,26-08-2026,
+2,REFUND,26-08-2026,#1810,#1810-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1203.03,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1810.2,manual,1203.03,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:27:37 AM UTC
+
+Return ID: 13717962817
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,26-08-2026,
+3,REFUND,26-08-2026,#1809,#1809-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1809.2,manual,1468.84,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:12:37 AM UTC
+
+Return ID: 13717667905
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE)
+  • Qty: 2
+  • Value: CAD 2842.18
+  • Tax: CAD 142.11
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 284.22
+⤷ Tax on Restocking Fee: CAD 14.21
+⤷ Total Restocking Fee: CAD 298.43
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 2685.86
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 595.31
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5357.73
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:10:20 AM UTC
+
+Return ID: 13717602369
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:07:37 AM UTC
+
+Return ID: 13717536833
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,26-08-2026,
+4,REFUND,26-08-2026,#1809,#1809-R3,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1203.03,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1809.3,manual,1203.03,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:12:37 AM UTC
+
+Return ID: 13717667905
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE)
+  • Qty: 2
+  • Value: CAD 2842.18
+  • Tax: CAD 142.11
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 284.22
+⤷ Tax on Restocking Fee: CAD 14.21
+⤷ Total Restocking Fee: CAD 298.43
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 2685.86
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 595.31
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5357.73
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:10:20 AM UTC
+
+Return ID: 13717602369
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:07:37 AM UTC
+
+Return ID: 13717536833
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,26-08-2026,
+5,REFUND,26-08-2026,#1809,#1809-R4,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-VUE,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE),DRM W/VUE EV,CEH,2,1421.09,2842.18,0,2842.18,142.11,0.0,2984.29,284.22,14.21,298.43,2685.86,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1809.4,manual,2685.86,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:12:37 AM UTC
+
+Return ID: 13717667905
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE)
+  • Qty: 2
+  • Value: CAD 2842.18
+  • Tax: CAD 142.11
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 284.22
+⤷ Tax on Restocking Fee: CAD 14.21
+⤷ Total Restocking Fee: CAD 298.43
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 2685.86
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 595.31
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5357.73
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:10:20 AM UTC
+
+Return ID: 13717602369
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 07:07:37 AM UTC
+
+Return ID: 13717536833
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,26-08-2026,
+6,REFUND,26-08-2026,#1808,#1808-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1203.03,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1808.2,Canada (Manual Bank Transfer),1203.03,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 06:23:47 AM UTC
+
+Return ID: 13716947009
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,26-08-2026,
+7,REFUND,26-08-2026,#1808,#1808-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,0.00,0.00,0.00,1203.03,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1808.3,Canada (Manual Bank Transfer),1203.03,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 06:23:47 AM UTC
+
+Return ID: 13716947009
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,26-08-2026,
+8,REFUND,26-08-2026,#1807,#1807-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1554.32,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1807.2,manual,1554.32,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,10-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 06:21:24 AM UTC
+
+Return ID: 13716881473
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,26-08-2026,
+9,REFUND,25-08-2026,#1806,#1806-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1273.06,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1806.2,manual,1273.06,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 06:00:33 AM UTC
+
+Return ID: 13716717633
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,26-08-2026,
+10,REFUND,25-08-2026,#1806,#1806-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,0.00,0.00,0.00,1554.32,26-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1806.3,manual,1554.32,26-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 26 Aug 2026, 06:00:33 AM UTC
+
+Return ID: 13716717633
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,26-08-2026,
+11,REFUND,25-08-2026,#1805,#1805-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,2.98,96.02,2.98,0.12,0.0,3.1,9.9,0.0,9.9,3.1,25-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1805.2,shopify_store_credit,3.1,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 01:05:03 PM UTC
+
+Return ID: 13705543745
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty: 1
+  • Value: USD 99.00
+  • Tax: USD 3.91
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 9.90
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 9.90
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 93.01
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 9.90
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 93.01
+========================
+
+
+",SUCCESS,25-08-2026,D97%
+12,REFUND,25-08-2026,#1805,#1805-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,19.14,1856.58,19.14,0.75,0.0,19.89,0.00,0.00,0.00,19.89,26-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1805.3,manual,19.89,26-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 01:05:03 PM UTC
+
+Return ID: 13705543745
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty: 1
+  • Value: USD 99.00
+  • Tax: USD 3.91
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 9.90
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 9.90
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 93.01
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 9.90
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 93.01
+========================
+
+
+",SUCCESS,25-08-2026,D97%
+13,REFUND,25-08-2026,#1804,#1804-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1804.2,shopify_store_credit,1468.84,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 12:54:54 PM UTC
+
+Return ID: 13705445441
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+14,REFUND,25-08-2026,#1803,#1803-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,0.00,0.00,0.00,1273.06,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1803.2,manual,1273.06,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,,SUCCESS,25-08-2026,
+15,REFUND,25-08-2026,#1802,#1802-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,127.31,6.37,133.68,1203.03,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1802.2,shopify_store_credit,1203.03,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 12:24:41 PM UTC
+
+Return ID: 13705183297
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+16,REFUND,25-08-2026,#1800,#1800-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1800.2,Canada (Manual Bank Transfer),1468.84,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 12:06:42 PM UTC
+
+Return ID: 13704986689
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+17,REFUND,25-08-2026,#1799,#1799-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1203.03,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1799.2,Canada (Manual Bank Transfer),1203.03,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 12:02:57 PM UTC
+
+Return ID: 13704921153
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:50:04 AM UTC
+
+Return ID: 13704822849
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+18,REFUND,25-08-2026,#1799,#1799-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1554.32,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1799.3,Canada (Manual Bank Transfer),1554.32,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 12:02:57 PM UTC
+
+Return ID: 13704921153
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:50:04 AM UTC
+
+Return ID: 13704822849
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+19,REFUND,25-08-2026,#1798,#1798-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1554.32,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1798.2,manual,1554.32,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:20:46 AM UTC
+
+Return ID: 13704527937
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:16:29 AM UTC
+
+Return ID: 13704429633
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+20,REFUND,25-08-2026,#1798,#1798-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1273.06,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1798.3,manual,1273.06,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:20:46 AM UTC
+
+Return ID: 13704527937
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:16:29 AM UTC
+
+Return ID: 13704429633
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+21,REFUND,25-08-2026,#1796,#1796-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1273.06,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1796.2,manual,1273.06,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:35:53 AM UTC
+
+Return ID: 13704626241
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:27:45 AM UTC
+
+Return ID: 13704560705
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+22,REFUND,25-08-2026,#1787,#1787-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1787.2,manual,1468.84,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 10:08:51 AM UTC
+
+Return ID: 13703872577
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+23,REFUND,25-08-2026,#1786,#1786-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,0.00,0.00,0.00,1554.32,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1786.2,manual,1554.32,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,,SUCCESS,25-08-2026,
+24,REFUND,25-08-2026,#1785,#1785-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,202.06,0.0,1756.3799999999999,0.00,0.00,0.00,1554.32,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Streeterpete Rd,Hamilton,Ontario,ON,Canada,CA,L8L 7V7,Streeterpete Rd,Hamilton,Ontario,ON,Canada,CA,L8L 7V7,,,#1785.2,US (Manual Bank Transfer),1554.32,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,Channel US,017,203,Net 15,09-09-2026,,SUCCESS,25-08-2026,
+25,REFUND,25-08-2026,#1784,#1784-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1273.06,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1784.2,Canada (Manual Bank Transfer),1273.06,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:36:54 AM UTC
+
+Return ID: 13704691777
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+26,REFUND,25-08-2026,#1784,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,0.00,0.00,0.00,1554.32,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1784.3,shopify_store_credit,1554.32,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:36:54 AM UTC
+
+Return ID: 13704691777
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+27,REFUND,25-08-2026,#1784,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,,,,,,,,0,0.0,0.0,0.0,0.0,0.00,0.00,0.00,77.72,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1784.4,shopify_store_credit,77.72,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:36:54 AM UTC
+
+Return ID: 13704691777
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+28,REFUND,25-08-2026,#1784,#1784-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-VUE,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE),DRM W/VUE EV,CEH,1,1421.09,1421.09,0,1421.09,71.05,0.0,1492.1399999999999,0.00,0.00,0.00,1421.09,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1784.5,shopify_store_credit,1421.09,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 11:36:54 AM UTC
+
+Return ID: 13704691777
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+29,REFUND,25-08-2026,#1783,#1783-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1783.2,manual,1468.84,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 08:26:01 AM UTC
+
+Return ID: 13702824001
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 08:15:17 AM UTC
+
+Return ID: 13702758465
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+30,REFUND,25-08-2026,#1783,#1783-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1273.06,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1783.3,manual,1273.06,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 08:26:01 AM UTC
+
+Return ID: 13702824001
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 296.88
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 2671.87
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 08:15:17 AM UTC
+
+Return ID: 13702758465
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+31,REFUND,25-08-2026,#1782,#1782-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1203.03,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1782.2,manual,1203.03,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 08:04:09 AM UTC
+
+Return ID: 13702660161
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+32,REFUND,25-08-2026,#1782,#1782-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,0.00,0.00,0.00,1554.32,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1782.3,manual,1554.32,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 08:04:09 AM UTC
+
+Return ID: 13702660161
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+33,REFUND,25-08-2026,#1781,#1781-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,1554.32,77.72,0.0,1632.04,155.43,7.77,163.2,1468.84,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1781.2,manual,1468.84,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 07:54:29 AM UTC
+
+Return ID: 13702594625
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 7.77
+⤷ Total Restocking Fee: CAD 163.20
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1468.84
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 163.20
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1468.84
+========================
+
+
+",SUCCESS,25-08-2026,
+34,REFUND,25-08-2026,#1780,#1780-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1273.06,1273.06,0,1273.06,63.65,0.0,1336.71,127.31,6.37,133.68,1203.03,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1780.2,manual,1203.03,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 07:40:08 AM UTC
+
+Return ID: 13702430785
+
+Returned Item (1):
+
+• Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: CAD 1273.06
+  • Tax: CAD 63.65
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 127.31
+⤷ Tax on Restocking Fee: CAD 6.37
+⤷ Total Restocking Fee: CAD 133.68
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1203.03
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 133.68
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1203.03
+========================
+
+
+",SUCCESS,25-08-2026,
+35,REFUND,25-08-2026,#1779,#1779-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-VUE,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE),DRM W/VUE EV,CEH,3,1421.09,4263.27,0,5817.59,290.88,0.0,6108.47,581.76,29.09,610.85,5497.62,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1779.2,manual,5497.62,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 07:33:20 AM UTC
+
+Return ID: 13702365249
+
+Returned Items (2):
+
+1. Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE)
+   • Qty: 3
+   • Value: CAD 4263.27
+   • Tax: CAD 213.16
+
+2. Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+   • Qty: 1
+   • Value: CAD 1554.32
+   • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 581.76
+⤷ Tax on Restocking Fee: CAD 29.09
+⤷ Total Restocking Fee: CAD 610.85
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 5497.62
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 610.85
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5497.62
+========================
+
+
+",SUCCESS,25-08-2026,
+36,REFUND,25-08-2026,#1779,#1779-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,1554.32,0,5817.59,290.88,0.0,6108.47,581.76,29.09,610.85,5497.62,25-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,Abbercove Dr Se,Calgary,Alberta,AB,Canada,CA,T2A 6Y8,,,#1779.2,manual,5497.62,25-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 15,09-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 07:33:20 AM UTC
+
+Return ID: 13702365249
+
+Returned Items (2):
+
+1. Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (VUE)
+   • Qty: 3
+   • Value: CAD 4263.27
+   • Tax: CAD 213.16
+
+2. Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+   • Qty: 1
+   • Value: CAD 1554.32
+   • Tax: CAD 77.72
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 581.76
+⤷ Tax on Restocking Fee: CAD 29.09
+⤷ Total Restocking Fee: CAD 610.85
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 5497.62
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 610.85
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5497.62
+========================
+
+
+",SUCCESS,25-08-2026,
+37,REFUND,25-08-2026,#1778,#1778-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,9.9,0.0,9.9,102.91,25-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1778.2,manual,102.91,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 07:23:46 AM UTC
+
+Return ID: 13702299713
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty: 1
+  • Value: USD 99.00
+  • Tax: USD 3.91
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 9.90
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 9.90
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 93.01
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 9.90
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 93.01
+========================
+
+
+",SUCCESS,25-08-2026,
+38,REFUND,25-08-2026,#1777,#1777-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,2.97,96.03,2.97,0.12,0.0,3.0900000000000003,9.9,0.0,9.9,3.09,25-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1777.2,manual,3.09,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 25 Aug 2026, 07:14:34 AM UTC
+
+Return ID: 13702234177
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty: 1
+  • Value: USD 99.00
+  • Tax: USD 3.91
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 9.90
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 9.90
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 93.01
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 9.90
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 93.01
+========================
+
+
+",SUCCESS,25-08-2026,D97%
+39,REFUND,25-08-2026,#1775,#1775-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,2.91,25-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1775.4,manual,2.91,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,,SUCCESS,25-08-2026,
+40,REFUND,25-08-2026,#1774,#1774-R1,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,31.9,0.0,669.9,0.00,0.00,0.00,669.9,25-08-2026,,,USD,SAP2M7L8X4ZW,529801467312,Tata Sonic,ATC,"XY Carter Rd 7 302, A-wing Fupdate2",Hallsville,Texas,TX,United States,US,75650,XY Carter Rd 7,Hallsville,Texas,TX,United States,US,75650,"Natalie Foster
+",D5Q9A6X,#1774.2,manual,669.9,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,,SUCCESS,25-08-2026,
+41,REFUND,25-08-2026,#1774,#1774-R2,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,79.79,25-08-2026,,,USD,SAP2M7L8X4ZW,529801467312,Tata Sonic,ATC,"XY Carter Rd 7 302, A-wing Fupdate2",Hallsville,Texas,TX,United States,US,75650,XY Carter Rd 7,Hallsville,Texas,TX,United States,US,75650,"Natalie Foster
+",D5Q9A6X,#1774.3,manual,79.79,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,,SUCCESS,25-08-2026,
+42,REFUND,25-08-2026,#1774,#1774-R3,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,79.79,25-08-2026,,,USD,SAP2M7L8X4ZW,529801467312,Tata Sonic,ATC,"XY Carter Rd 7 302, A-wing Fupdate2",Hallsville,Texas,TX,United States,US,75650,XY Carter Rd 7,Hallsville,Texas,TX,United States,US,75650,"Natalie Foster
+",D5Q9A6X,#1774.4,manual,79.79,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,,SUCCESS,25-08-2026,
+43,REFUND,25-08-2026,#1773,#1773-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,25-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1773.2,manual,78.99,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,,SUCCESS,25-08-2026,
+44,REFUND,25-08-2026,#1772,#1772-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,25-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1772.2,manual,78.99,25-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,01-09-2026,,SUCCESS,25-08-2026,
+45,REFUND,24-08-2026,#1771,#1771-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1771.2,manual,78.99,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+46,REFUND,24-08-2026,#1770,#1770-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1770.3,manual,78.99,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+47,REFUND,24-08-2026,#1769,#1769-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1769.2,manual,78.99,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+48,REFUND,24-08-2026,#1769,#1769-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1769.3,manual,78.99,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+49,REFUND,24-08-2026,#1768,#1768-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1768.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+50,REFUND,24-08-2026,#1768,#1768-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1768.3,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+51,REFUND,24-08-2026,#1766,#1766-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1766.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+52,REFUND,24-08-2026,#1765,#1765-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,2,75.99,151.98,0,151.98,6.0,0.0,157.98,0.00,0.00,0.00,157.98,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1765.2,manual,157.98,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+53,REFUND,24-08-2026,#1765,#1765-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1765.3,manual,78.99,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+54,REFUND,24-08-2026,#1764,#1764-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1764.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+55,REFUND,24-08-2026,#1763,#1763-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1763.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+56,REFUND,24-08-2026,#1762,#1762-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1762.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+57,REFUND,24-08-2026,#1761,#1761-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1761.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+58,REFUND,24-08-2026,#1761,#1761-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,663.2,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1761.3,manual,663.2,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+59,REFUND,24-08-2026,#1760,#1760-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1760.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+60,REFUND,24-08-2026,#1758,#1758-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1758.2,manual,78.99,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+61,REFUND,24-08-2026,#1757,#1757-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1757.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+62,REFUND,24-08-2026,#1756,#1756-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1756.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+63,REFUND,24-08-2026,#1756,#1756-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,663.2,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1756.3,manual,663.2,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+64,REFUND,24-08-2026,#1754,#1754-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,2.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1754.4,manual,2.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+65,REFUND,24-08-2026,#1752,#1752-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,663.2,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1752.2,manual,663.2,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+66,REFUND,24-08-2026,#1752,#1752-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1752.3,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+67,REFUND,24-08-2026,#1751,#1751-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1751.2,manual,102.91,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+68,REFUND,24-08-2026,#1750,#1750-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,2,75.99,4.55,147.43,4.55,0.18,0.0,4.7299999999999995,0.00,0.00,0.00,4.73,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1750.2,manual,4.73,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,D97%
+69,REFUND,24-08-2026,#1749,#1749-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,563.2,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1749.4,manual,563.2,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+70,REFUND,24-08-2026,#1748,#1748-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,663.2,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1748.2,manual,663.2,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,
+71,REFUND,24-08-2026,#1747,#1747-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,19.14,618.86,19.14,0.76,0.0,19.900000000000002,0.00,0.00,0.00,19.9,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1747.2,manual,19.9,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,D97%
+72,REFUND,24-08-2026,#1747,#1747-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,2.97,96.03,2.97,0.12,0.0,3.0900000000000003,0.00,0.00,0.00,3.09,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1747.3,manual,3.09,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,31-08-2026,,SUCCESS,24-08-2026,D97%
+73,REFUND,21-08-2026,#1746,#1746-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ACCISO-V03-DRM-v01,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1),DRM,ACCISO,1,49.99,49.99,0,49.99,1.97,0.0,51.96,0.00,0.00,0.00,51.96,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1746.2,manual,51.96,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+74,REFUND,21-08-2026,#1746,#1746-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CASENET-V01-iLAB,Certified Application Security Engineer (CASE) .NET Version 1 iLabs,iLabs,CASE,1,99.0,99.0,0,99.0,0.0,0.0,99.0,0.00,0.00,0.00,99.0,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1746.3,manual,99.0,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+75,REFUND,21-08-2026,#1745,#1745-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CASENET-V01-iLAB,Certified Application Security Engineer (CASE) .NET Version 1 iLabs,iLabs,CASE,1,99.0,99.0,0,99.0,0.0,0.0,99.0,0.00,0.00,0.00,99.0,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1745.2,manual,99.0,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+76,REFUND,21-08-2026,#1745,#1745-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ACCISO-V03-DRM-v01,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1),DRM,ACCISO,1,49.99,49.99,0,49.99,1.97,0.0,51.96,0.00,0.00,0.00,51.96,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1745.3,manual,51.96,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+77,REFUND,21-08-2026,#1745,#1745-R3,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ACCISO-V03-DRM-v05,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 5),DRM,ACCISO,1,49.99,49.99,0,49.99,1.97,0.0,51.96,0.00,0.00,0.00,51.96,24-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1745.4,manual,51.96,24-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+78,REFUND,21-08-2026,#1744,#1744-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ACCISO-V03-DRM-v01,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1),DRM,ACCISO,1,49.99,49.99,0,49.99,1.97,0.0,51.96,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+79,REFUND,21-08-2026,#1744,#1744-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CASENET-V01-iLAB,Certified Application Security Engineer (CASE) .NET Version 1 iLabs,iLabs,CASE,1,99.0,99.0,0,99.0,0.0,0.0,99.0,0.00,0.00,0.00,99.0,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1744.2,manual,99.0,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+80,REFUND,21-08-2026,#1744,#1744-R3,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,AIE-V01-EV-RPS-ECL,Artificial Intelligence Essentials (AIE) Version 1 Exam Voucher (RPS),PU EV,AIE,1,50.0,50.0,0,50.0,0.0,0.0,50.0,0.00,0.00,0.00,50.0,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1744.3,manual,50.0,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+81,REFUND,21-08-2026,#1743,#1743-R1,gargeepawarecc@gmail.com,PARTIALLY_PAID,CASENET-V01-iLAB,Certified Application Security Engineer (CASE) .NET Version 1 iLabs,iLabs,CASE,1,99.0,99.0,0,99.0,0.0,0.0,99.0,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+82,REFUND,21-08-2026,#1743,#1743-R2,gargeepawarecc@gmail.com,PARTIALLY_PAID,ACCISO-V03-DRM-v01,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1),DRM,ACCISO,1,49.99,49.99,0,49.99,1.97,0.0,51.96,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,
+83,REFUND,21-08-2026,#1742,#1742-R1,gargeepawarecc@gmail.com,REFUNDED,ACCISO-V03-DRM-v05,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 5),DRM,ACCISO,2,49.99,3.0,96.98,3.0,0.12,0.0,3.12,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,D97%
+84,REFUND,21-08-2026,#1742,#1742-R2,gargeepawarecc@gmail.com,REFUNDED,ACCISO-V03-DRM-v01,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1),DRM,ACCISO,1,49.99,1.5,48.49,1.5,0.06,0.0,1.56,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,D97%
+85,REFUND,21-08-2026,#1742,#1742-R3,gargeepawarecc@gmail.com,REFUNDED,CASENET-V01-iLAB,Certified Application Security Engineer (CASE) .NET Version 1 iLabs,iLabs,CASE,1,99.0,99.0,0,99.0,0.0,0.0,99.0,0.00,0.00,0.00,4.68,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1742.2,manual,4.68,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,D97%
+86,REFUND,21-08-2026,#1742,#1742-R4,gargeepawarecc@gmail.com,REFUNDED,ACCISO-V03-DRM-v02,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 2),DRM,ACCISO,3,49.99,4.5,145.47,4.5,0.18,0.0,4.68,0.00,0.00,0.00,4.68,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1742.3,manual,4.68,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,D97%
+87,REFUND,21-08-2026,#1741,#1741-R1,gargeepawarecc@gmail.com,PARTIALLY_PAID,ACCISO-V03-DRM-v01,Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1),DRM,ACCISO,1,49.99,1.5,48.49,1.5,0.06,0.0,1.56,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,D97%
+88,REFUND,21-08-2026,#1740,#1740-R2,gargeepawarecc@gmail.com,PARTIALLY_PAID,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,2,75.99,4.56,221.13,4.56,0.18,0.0,4.739999999999999,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,28-08-2026,,SUCCESS,21-08-2026,D97%
+89,REFUND,18-08-2026,#1739,#1739-R1,eccouncilwork@gmail.com,PARTIALLY_PAID,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,4,638.0,2552.0,0,2552.0,255.2,0.0,2807.2,0.00,0.00,0.00,,18-08-2026,,,USD,T2Q6L9M5APRX,436290815743,Moxiiii QA Tax Exe,,2419 Toccata Ln,Cabot,Arkansas,AR,United States,US,72023,2419 Toccata Ln,Cabot,Arkansas,AR,United States,US,72023,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,18-08-2026,
+90,REFUND,18-08-2026,#1738,#1738-R1,eccouncilwork@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,4,638.0,2552.0,0,2552.0,255.2,0.0,2807.2,0.00,0.00,0.00,2600.0,18-08-2026,,,USD,T2Q6L9M5APRX,436290815743,Moxiiii QA Tax Exe,,2419 Toccata Ln,Cabot,Arkansas,AR,United States,US,72023,2419 Toccata Ln,Cabot,Arkansas,AR,United States,US,72023,,,#1738.2,US (Manual Bank Transfer),2600.0,18-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,,,,,,,SUCCESS,18-08-2026,
+91,REFUND,18-08-2026,#1737,#1737-R1,moxi.patel.ctr@eccouncil.org,PARTIALLY_REFUNDED,CEH-V13-DRM-EV-RPS,Certified Ethical Hacker (CEH) Version 13 eBook with Exam Voucher (RPS),DRM W/PU EV,CEH,1,1126.6,1126.6,0,1126.6,90.12,0.0,1216.7199999999998,0.00,0.00,0.00,1216.72,18-08-2026,,,USD,SAP7A92KX4M1,784592316048,Sample Company,ATC,1233 Woodside Drive,Hanahan,South Carolina,SC,United States,US,29410,4020 Franklin Pl,Vestal,New York,NY,United States,US,13850,"Anand Prasad
+",Sales rep owner code test,#1737.2,manual,1216.72,18-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Due on fulfillment,,,SUCCESS,18-08-2026,
+92,REFUND,17-08-2026,#1736,#1736-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,2.97,96.03,2.97,0.12,0.0,3.0900000000000003,0.00,0.00,0.00,,17-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,24-08-2026,,SUCCESS,17-08-2026,D97%
+93,REFUND,17-08-2026,#1736,#1736-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,19.14,618.86,19.14,0.76,0.0,19.900000000000002,0.00,0.00,0.00,7.9,17-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,zZaIEQuVSbiTiEfT8BTsEpIKU,shopify_payments,7.9,17-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,24-08-2026,,SUCCESS,17-08-2026,D97%
+94,REFUND,17-08-2026,#1736,#1736-R3,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,2.28,221.13,2.28,0.09,0.0,2.3699999999999997,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,24-08-2026,,SUCCESS,17-08-2026,D97%
+95,REFUND,14-08-2026,#1735,#1735-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,599.4,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1735.3,manual,599.4,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,14-08-2026,
+96,REFUND,14-08-2026,#1731,#1731-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,599.4,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1731.1,shopify_store_credit,599.4,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,14-08-2026,
+97,REFUND,14-08-2026,#1729,#1729-R1,gargeepawarecc@gmail.com,PENDING,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,19.15,618.85,19.15,0.76,0.0,19.91,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,D97%
+98,REFUND,14-08-2026,#1728,#1728-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,0.00,0.00,0.00,599.4,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1728.2,manual,599.4,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,14-08-2026,
+99,REFUND,14-08-2026,#1727,#1727-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,63.8,0.0,63.8,599.4,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1727.2,shopify_store_credit,599.4,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 01:15:48 PM UTC
+
+Return ID: 13563166785
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+100,REFUND,14-08-2026,#1726,#1726-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,63.8,0.0,63.8,599.4,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1726.2,US (Manual Bank Transfer),599.4,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 01:00:42 PM UTC
+
+Return ID: 13563035713
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+101,REFUND,14-08-2026,#1726,#1726-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1726.3,US (Manual Bank Transfer),102.91,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 01:00:42 PM UTC
+
+Return ID: 13563035713
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+102,REFUND,14-08-2026,#1723,#1723-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,63.8,0.0,63.8,599.4,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1723.2,US (Manual Bank Transfer),599.4,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:49:41 PM UTC
+
+Return ID: 13562937409
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+103,REFUND,14-08-2026,#1723,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,14-08-2026,,Testing,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1723.3,US (Manual Bank Transfer),102.91,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:49:41 PM UTC
+
+Return ID: 13562937409
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+104,REFUND,14-08-2026,#1723,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1723.4,US (Manual Bank Transfer),78.99,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:49:41 PM UTC
+
+Return ID: 13562937409
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+105,REFUND,14-08-2026,#1723,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.01,0.0,79.0,0.00,0.00,0.00,79.0,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1723.5,US (Manual Bank Transfer),79.0,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:49:41 PM UTC
+
+Return ID: 13562937409
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 25.20
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 599.40
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 599.40
+========================
+
+
+",SUCCESS,14-08-2026,
+106,REFUND,14-08-2026,#1722,#1722-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,25.2,0.0,663.2,63.8,0.0,63.8,574.2,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1722.2,shopify_store_credit,574.2,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:31:47 PM UTC
+
+Return ID: 13562642497
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 574.20
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 574.20
+========================
+
+
+",SUCCESS,14-08-2026,
+107,REFUND,14-08-2026,#1722,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,3.91,0.0,102.91,0.00,0.00,0.00,102.91,14-08-2026,,Test,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1722.3,manual,102.91,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:31:47 PM UTC
+
+Return ID: 13562642497
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 574.20
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 574.20
+========================
+
+
+",SUCCESS,14-08-2026,
+108,REFUND,14-08-2026,#1722,,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.0,0.0,78.99,0.00,0.00,0.00,78.99,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,Minnesota Pl,Loveland,Colorado,CO,United States,US,80538,"Christian Walker
+",Y9M1R5K,#1722.4,manual,78.99,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:31:47 PM UTC
+
+Return ID: 13562642497
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 63.80
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 574.20
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 63.80
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 574.20
+========================
+
+
+",SUCCESS,14-08-2026,
+109,REFUND,14-08-2026,#1718,#1718-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1554.32,46.63,1507.69,46.63,6.06,0.0,52.690000000000005,155.43,20.2,175.63,46.63,14-08-2026,,,CAD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,Streeterpete Rd,Hamilton,Ontario,ON,Canada,CA,L8L 7V7,Streeterpete Rd,Hamilton,Ontario,ON,Canada,CA,L8L 7V7,,,#1718.2,shopify_store_credit,46.63,14-08-2026,ECCC,SO15,EC-Council Canada Inc.,Channel US,017,203,Net 15,29-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 12:02:02 PM UTC
+
+Return ID: 13562314817
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 202.07
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 20.20
+⤷ Total Restocking Fee: CAD 175.63
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1580.76
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 175.63
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1580.76
+========================
+
+
+",SUCCESS,14-08-2026,D97%
+110,REFUND,14-08-2026,#1709,#1709-R1,gargeepawarecc@gmail.com,PENDING,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,2.27,73.72,2.27,0.11,0.0,2.38,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,D97%
+111,REFUND,14-08-2026,#1707,#1707-R1,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,DFE-V01-iLEARN,Digital Forensics Essentials  (DFE) Version 1 iLearn Kit,,,1,337.87,337.87,0,1524.37,198.17000000000002,0.0,1722.54,152.44,19.82,172.26,1550.28,14-08-2026,,,CAD,F3SAP8Q2W7KN,692385741908,KETAN UNIVERSITY,,82 Labadie Rd Windsor,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd Windsor,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1707.2,manual,1550.28,14-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:41:28 AM UTC
+
+Return ID: 13561724993
+
+Returned Items (2):
+
+1. Digital Forensics Essentials  (DFE) Version 1 iLearn Kit
+   • Qty: 1
+   • Value: CAD 337.87
+   • Tax: CAD 43.92
+
+2. Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+   • Qty: 1
+   • Value: CAD 1186.50
+   • Tax: CAD 154.25
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 152.44
+⤷ Tax on Restocking Fee: CAD 19.82
+⤷ Total Restocking Fee: CAD 172.26
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1550.28
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 172.26
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1550.28
+========================
+
+
+",SUCCESS,14-08-2026,
+112,REFUND,14-08-2026,#1707,#1707-R1,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1186.5,1186.5,0,1524.37,198.17000000000002,0.0,1722.54,152.44,19.82,172.26,1550.28,14-08-2026,,,CAD,F3SAP8Q2W7KN,692385741908,KETAN UNIVERSITY,,82 Labadie Rd Windsor,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd Windsor,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1707.2,manual,1550.28,14-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:41:28 AM UTC
+
+Return ID: 13561724993
+
+Returned Items (2):
+
+1. Digital Forensics Essentials  (DFE) Version 1 iLearn Kit
+   • Qty: 1
+   • Value: CAD 337.87
+   • Tax: CAD 43.92
+
+2. Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+   • Qty: 1
+   • Value: CAD 1186.50
+   • Tax: CAD 154.25
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 152.44
+⤷ Tax on Restocking Fee: CAD 19.82
+⤷ Total Restocking Fee: CAD 172.26
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1550.28
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 172.26
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 1550.28
+========================
+
+
+",SUCCESS,14-08-2026,
+113,REFUND,14-08-2026,#1706,#1706-R1,gargeepawarecc@gmail.com,PARTIALLY_PAID,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,2,99.0,5.94,192.06,5.94,0.3,0.0,6.24,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,D97%
+114,REFUND,14-08-2026,#1705,#1705-R1,nkixis3@mailsbay.com,PARTIALLY_PAID,CPENT-V02-iLEARN-US,"Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key",,,1,2199.0,2199.0,0,2199.0,192.42,0.0,2391.42,0.00,0.00,0.00,,14-08-2026,,,USD,R8SAP1L4X2QM,753914268180,Dell,ATC,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,Brookhaven Ave abc,Bellport,New York,NY,United States,US,11713,"Isabella Mitchell
+",J5K9A1M,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,14-08-2026,
+115,REFUND,14-08-2026,#1704,#1704-R1,gargeepawarecc@gmail.com,PENDING,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+116,REFUND,14-08-2026,#1703,,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,,,,,,,,0,0.0,0.0,0.0,0.0,299.68,38.95,338.63,3047.68,14-08-2026,,,CAD,F3SAP8Q2W7KN,692385741908,KETAN UNIVERSITY,,82 Labadie Rd Windsor,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd Windsor,Windsor,Ontario,ON,Canada,CA,N8W 4J7,,,#1703.2,manual,3047.68,14-08-2026,ECCC,SO15,EC-Council Canada Inc.,,,,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:27:43 AM UTC
+
+Return ID: 13561593921
+
+Returned Items (5):
+
+1. Certified Threat Intelligence Analyst (CTIA) Version 2 Lab
+   • Qty: 1
+   • Value: CAD 111.87
+   • Tax: CAD 14.54
+
+2. Certified Cybersecurity Technician (CCT) Version 1 iLabs
+   • Qty: 1
+   • Value: CAD 141.25
+   • Tax: CAD 18.36
+
+3. Associate Certified Chief Information Security Officer (ACCISO) Version 3 eCourseware (Volume 1)
+   • Qty: 1
+   • Value: CAD 56.49
+   • Tax: CAD 7.34
+
+4. Certified Penetration Testing Professional (CPENT) Version 2- Includes 1 Year Access To Videos, e-Courseware, 6 Months iLabs Access And 90 Day Range Key
+   • Qty: 1
+   • Value: CAD 2258.87
+   • Tax: CAD 293.65
+
+5. Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher & Lab
+   • Qty: 1
+   • Value: CAD 428.27
+   • Tax: CAD 55.67
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 299.68
+⤷ Tax on Restocking Fee: CAD 38.95
+⤷ Total Restocking Fee: CAD 338.63
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 3047.68
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 338.63
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 3047.68
+========================
+
+
+",SUCCESS,14-08-2026,
+117,REFUND,14-08-2026,#1702,#1702-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,zMOGqK12nJg35fu6ufk7zVmT5,shopify_payments,79.79,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:20:32 AM UTC
+
+Return ID: 13561462849
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 75.99
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 7.60
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 7.60
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 68.39
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 7.60
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 68.39
+========================
+
+
+",SUCCESS,14-08-2026,
+118,REFUND,14-08-2026,#1702,#1702-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,0.00,0.00,0.00,1102.5,14-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,z228ogseCemI8nys3VkFT0st8,shopify_payments,1102.5,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:20:32 AM UTC
+
+Return ID: 13561462849
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 75.99
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 7.60
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 7.60
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 68.39
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 7.60
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 68.39
+========================
+
+
+",SUCCESS,14-08-2026,
+119,REFUND,14-08-2026,#1700,#1700-R1,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,CTIA-V02-DRM-Lab-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS) & Lab,DRM W/PU EV + Lab,CTIA,1,499.0,499.0,0,904.0,59.67,0.0,963.67,90.4,0.0,90.4,813.6,14-08-2026,,,USD,F3SAP8Q2W7KN,692385741908,KETAN UNIVERSITY,,Mexico Ave,Laredo,Texas,TX,United States,US,78046,Mexico Ave,Laredo,Texas,TX,United States,US,78046,,,#1700.2,US (Manual Bank Transfer),813.6,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,,,,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:07:50 AM UTC
+
+Return ID: 13561364545
+
+Returned Items (2):
+
+1. Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS) & Lab
+   • Qty: 1
+   • Value: USD 499.00
+   • Tax: USD 0.00
+
+2. Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS)
+   • Qty: 1
+   • Value: USD 405.00
+   • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 90.40
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 90.40
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 813.60
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 90.40
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 813.60
+========================
+
+
+",SUCCESS,14-08-2026,
+120,REFUND,14-08-2026,#1700,#1700-R1,radicalnaksha@gmail.com,PARTIALLY_REFUNDED,CTIA-V02-DRM-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS),DRM W/PU EV,CTIA,1,405.0,405.0,0,904.0,59.67,0.0,963.67,90.4,0.0,90.4,813.6,14-08-2026,,,USD,F3SAP8Q2W7KN,692385741908,KETAN UNIVERSITY,,Mexico Ave,Laredo,Texas,TX,United States,US,78046,Mexico Ave,Laredo,Texas,TX,United States,US,78046,,,#1700.2,US (Manual Bank Transfer),813.6,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,,,,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:07:50 AM UTC
+
+Return ID: 13561364545
+
+Returned Items (2):
+
+1. Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS) & Lab
+   • Qty: 1
+   • Value: USD 499.00
+   • Tax: USD 0.00
+
+2. Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS)
+   • Qty: 1
+   • Value: USD 405.00
+   • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 90.40
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 90.40
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 813.60
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 90.40
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 813.60
+========================
+
+
+",SUCCESS,14-08-2026,
+121,REFUND,14-08-2026,#1699,#1699-R1,radicalnaksha@gmail.com,REFUNDED,CTIA-V02-DRM-EV-RPS,Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS),DRM W/PU EV,CTIA,1,405.0,405.0,0,405.0,26.73,0.0,431.73,40.5,0.0,40.5,431.73,14-08-2026,,,USD,F3SAP8Q2W7KN,692385741908,KETAN UNIVERSITY,,Mexico Ave,Laredo,Texas,TX,United States,US,78046,Mexico Ave,Laredo,Texas,TX,United States,US,78046,,,#1699.2,shopify_store_credit,431.73,14-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,,,,Net 7,21-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 14 Aug 2026, 10:02:18 AM UTC
+
+Return ID: 13561299009
+
+Returned Item (1):
+
+• Certified Threat Intelligence Analyst (CTIA) Version 2 eBook with Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 405.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 40.50
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 40.50
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 364.50
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 40.50
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 364.50
+========================
+
+
+",SUCCESS,14-08-2026,
+122,REFUND,14-08-2026,#1696,#1696-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+123,REFUND,14-08-2026,#1696,#1696-R2,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,0.00,0.00,0.00,1102.5,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1696.2,manual,1102.5,21-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+124,REFUND,14-08-2026,#1695,#1695-R1,gargeepawarecc@gmail.com,PENDING,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+125,REFUND,14-08-2026,#1694,#1694-R1,gargeepawarecc@gmail.com,PENDING,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+126,REFUND,14-08-2026,#1694,#1694-R2,gargeepawarecc@gmail.com,PENDING,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+127,REFUND,14-08-2026,#1694,#1694-R3,gargeepawarecc@gmail.com,PENDING,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,4.95,0.0,103.95,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+128,REFUND,14-08-2026,#1690,#1690-R1,gargeepawarecc@gmail.com,PENDING,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+129,REFUND,14-08-2026,#1690,#1690-R2,gargeepawarecc@gmail.com,PENDING,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,21-08-2026,,SUCCESS,21-08-2026,
+130,REFUND,13-08-2026,#1681,#1681-R1,anandprakash.prasad@eccouncil.org,PARTIALLY_REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,1,638.0,638.0,0,638.0,44.66,0.0,682.66,63.8,4.47,68.27,614.39,13-08-2026,,,USD,Y6K2A7T9PXLM,470918632155,Anand's Company,ATC,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,"Anna Sanders
+",Z9Q4N6T,#1681.2,Canada (Manual Bank Transfer),614.39,13-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,20-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 13 Aug 2026, 11:34:11 AM UTC
+
+Return ID: 13547536449
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty: 1
+  • Value: USD 638.00
+  • Tax: USD 44.66
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 63.80
+⤷ Tax on Restocking Fee: USD 4.47
+⤷ Total Restocking Fee: USD 68.27
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 614.39
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 68.27
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 614.39
+========================
+
+
+",SUCCESS,13-08-2026,
+131,REFUND,13-08-2026,#1665,#1665-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,13-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1665.2,US (Manual Bank Transfer),79.79,13-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,20-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 13 Aug 2026, 07:41:38 AM UTC
+
+Return ID: 13544980545
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,13-08-2026,
+132,REFUND,12-08-2026,#1662,#1662-R1,anandprakash.prasad@eccouncil.org,PENDING,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,1,99.0,99.0,0,99.0,6.93,0.0,105.93,9.9,0.69,10.59,,12-08-2026,,,USD,Y6K2A7T9PXLM,470918632155,Anand's Company,ATC,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,"Anna Sanders
+",Z9Q4N6T,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,19-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 12 Aug 2026, 01:20:05 PM UTC
+
+Return ID: 13533020225
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty: 1
+  • Value: USD 99.00
+  • Tax: USD 6.93
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 9.90
+⤷ Tax on Restocking Fee: USD 0.69
+⤷ Total Restocking Fee: USD 10.59
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 95.34
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 10.59
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 95.34
+========================
+
+
+",SUCCESS,12-08-2026,
+133,REFUND,12-08-2026,#1660,#1660-R1,anandprakash.prasad@eccouncil.org,PENDING,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,5.32,0.0,81.31,7.6,0.54,8.14,,12-08-2026,,,USD,Y6K2A7T9PXLM,470918632155,Anand's Company,ATC,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,"Anna Sanders
+",Z9Q4N6T,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,19-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 12 Aug 2026, 11:44:09 AM UTC
+
+Return ID: 13532266561
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 75.99
+  • Tax: USD 5.32
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 7.60
+⤷ Tax on Restocking Fee: USD 0.54
+⤷ Total Restocking Fee: USD 8.14
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 73.17
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 8.14
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 73.17
+========================
+
+
+",SUCCESS,12-08-2026,
+134,REFUND,11-08-2026,#1658,#1658-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1658.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,,SUCCESS,11-08-2026,
+135,REFUND,11-08-2026,#1657,#1657-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1657.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 01:45:02 PM UTC
+
+Return ID: 13518241857
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 75.99
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 7.60
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 7.60
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 68.39
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 7.60
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 68.39
+========================
+
+
+",SUCCESS,11-08-2026,
+136,REFUND,11-08-2026,#1656,#1656-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1656.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 01:05:37 PM UTC
+
+Return ID: 13517783105
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,11-08-2026,
+137,REFUND,11-08-2026,#1655,#1655-R1,anandprakash.prasad@eccouncil.org,REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,5.32,0.0,81.31,7.6,0.54,8.14,81.31,11-08-2026,,,USD,Y6K2A7T9PXLM,470918632155,Anand's Company,ATC,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,"Anna Sanders
+",Z9Q4N6T,#1655.2,Canada (Manual Bank Transfer),81.31,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:48:15 PM UTC
+
+Return ID: 13517488193
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.54
+Final Deduction      : USD 8.14
+Cumulative Deduction : USD 8.14
+
+========================
+
+",SUCCESS,11-08-2026,
+138,REFUND,11-08-2026,#1654,#1654-R1,anandprakash.prasad@eccouncil.org,PARTIALLY_PAID,DFE-V01-iLAB-EVPREP-EV-RPS-ECL,Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,DFE,1,75.99,75.99,0,75.99,5.32,0.0,81.31,7.6,0.54,8.14,,11-08-2026,,,USD,Y6K2A7T9PXLM,470918632155,Anand's Company,ATC,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,1520 Old Trolley Rd,Summerville,South Carolina,SC,United States,US,29485,"Anna Sanders
+",Z9Q4N6T,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:31:30 PM UTC
+
+Return ID: 13517389889
+
+Returned Item (1):
+
+• Digital Forensics Essentials (DFE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 75.99
+  • Tax: USD 5.32
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 7.60
+⤷ Tax on Restocking Fee: USD 0.54
+⤷ Total Restocking Fee: USD 8.14
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 73.17
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 8.14
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 73.17
+========================
+
+
+",SUCCESS,11-08-2026,
+139,REFUND,11-08-2026,#1653,#1653-R1,gargeepawarecc@gmail.com,REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1653.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:32:43 PM UTC
+
+Return ID: 13517422657
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 11.96
+Final Deduction      : USD 203.36
+Cumulative Deduction : USD 337.48
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:27:20 PM UTC
+
+Return ID: 13517357121
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty   : 2
+  • Value : USD 198.00
+
+Restocking Fee       : USD 19.80
+Tax Amount           : USD 1.24
+Final Deduction      : USD 21.04
+Cumulative Deduction : USD 134.12
+
+========================
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:19:49 PM UTC
+
+Return ID: 13517127745
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: USD 1050.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 105.00
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 105.00
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 945.00
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 113.08
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 1013.39
+========================
+
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:14:39 PM UTC
+
+Return ID: 13517094977
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,11-08-2026,
+140,REFUND,11-08-2026,#1653,#1653-R2,gargeepawarecc@gmail.com,REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,105.0,0.0,105.0,1102.5,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1653.3,manual,1102.5,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:32:43 PM UTC
+
+Return ID: 13517422657
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 11.96
+Final Deduction      : USD 203.36
+Cumulative Deduction : USD 337.48
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:27:20 PM UTC
+
+Return ID: 13517357121
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty   : 2
+  • Value : USD 198.00
+
+Restocking Fee       : USD 19.80
+Tax Amount           : USD 1.24
+Final Deduction      : USD 21.04
+Cumulative Deduction : USD 134.12
+
+========================
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:19:49 PM UTC
+
+Return ID: 13517127745
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: USD 1050.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 105.00
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 105.00
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 945.00
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 113.08
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 1013.39
+========================
+
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:14:39 PM UTC
+
+Return ID: 13517094977
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,11-08-2026,
+141,REFUND,11-08-2026,#1653,#1653-R3,gargeepawarecc@gmail.com,REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,2,99.0,198.0,0,198.0,9.9,0.0,207.9,19.8,0.0,19.8,207.9,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1653.4,manual,207.9,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:32:43 PM UTC
+
+Return ID: 13517422657
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 11.96
+Final Deduction      : USD 203.36
+Cumulative Deduction : USD 337.48
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:27:20 PM UTC
+
+Return ID: 13517357121
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty   : 2
+  • Value : USD 198.00
+
+Restocking Fee       : USD 19.80
+Tax Amount           : USD 1.24
+Final Deduction      : USD 21.04
+Cumulative Deduction : USD 134.12
+
+========================
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:19:49 PM UTC
+
+Return ID: 13517127745
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: USD 1050.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 105.00
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 105.00
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 945.00
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 113.08
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 1013.39
+========================
+
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:14:39 PM UTC
+
+Return ID: 13517094977
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,11-08-2026,
+142,REFUND,11-08-2026,#1653,#1653-R4,gargeepawarecc@gmail.com,REFUNDED,ECDE-V02-DRM-iLAB-EV-RPS,EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs,DRM W/PU EV + iLabs,CDE,3,638.0,1914.0,0,1914.0,95.7,0.0,2009.7,191.4,0.0,191.4,2009.7,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1653.5,manual,2009.7,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:32:43 PM UTC
+
+Return ID: 13517422657
+
+Returned Item (1):
+
+• EC-Council Certified DevSecOps Engineer (ECDE) Version 2 e-Courseware with Exam Voucher (RPS) & iLabs
+  • Qty   : 3
+  • Value : USD 1914.00
+
+Restocking Fee       : USD 191.40
+Tax Amount           : USD 11.96
+Final Deduction      : USD 203.36
+Cumulative Deduction : USD 337.48
+
+========================
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:27:20 PM UTC
+
+Return ID: 13517357121
+
+Returned Item (1):
+
+• Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+  • Qty   : 2
+  • Value : USD 198.00
+
+Restocking Fee       : USD 19.80
+Tax Amount           : USD 1.24
+Final Deduction      : USD 21.04
+Cumulative Deduction : USD 134.12
+
+========================
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:19:49 PM UTC
+
+Return ID: 13517127745
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: USD 1050.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 105.00
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 105.00
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 945.00
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 113.08
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 1013.39
+========================
+
+
+========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:14:39 PM UTC
+
+Return ID: 13517094977
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,11-08-2026,
+143,REFUND,11-08-2026,#1652,#1652-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1652.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 12:01:26 PM UTC
+
+Return ID: 13516800065
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty: 1
+  • Value: USD 75.99
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 7.60
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 7.60
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 68.39
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 7.60
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 68.39
+========================
+
+
+",SUCCESS,11-08-2026,
+144,REFUND,11-08-2026,#1651,#1651-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,105.0,0.0,105.0,1102.5,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1651.2,manual,1102.5,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 11:54:12 AM UTC
+
+Return ID: 13516767297
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: USD 1050.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 105.00
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 105.00
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 945.00
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 105.00
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 945.00
+========================
+
+
+",SUCCESS,11-08-2026,
+145,REFUND,11-08-2026,#1650,#1650-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1650.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,,SUCCESS,11-08-2026,
+146,REFUND,11-08-2026,#1649,#1649-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,105.0,0.0,105.0,1102.5,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1649.2,manual,1102.5,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 11:39:57 AM UTC
+
+Return ID: 13516603457
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: USD 1050.00
+  • Tax: USD 0.00
+
+RETURN SUMMARY
+⤷ Restocking Fee: USD 105.00
+⤷ Tax on Restocking Fee: USD 0.00
+⤷ Total Restocking Fee: USD 105.00
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: USD 945.00
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: USD 105.00
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: USD 945.00
+========================
+
+
+",SUCCESS,11-08-2026,
+147,REFUND,11-08-2026,#1648,#1648-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,7.6,0.0,7.6,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,zpHBbMkTjo8vNyQP55ia9xMKo,shopify_payments,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,"========================
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 11:30:02 AM UTC
+
+Return ID: 13516537921
+
+Returned Item (1):
+
+• Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS)
+  • Qty   : 1
+  • Value : USD 75.99
+
+Restocking Fee       : USD 7.60
+Tax Amount           : USD 0.48
+Final Deduction      : USD 8.08
+Cumulative Deduction : USD 8.08
+
+========================
+
+",SUCCESS,11-08-2026,
+148,REFUND,11-08-2026,#1644,#1644-R1,gargeepawarecc@gmail.com,PARTIALLY_REFUNDED,EHE-V01-iLAB-EVPREP-EV-RPS-ECL,Ethical Hacking Essentials (EHE) Version 1 iLabs with Exam Prep & Exam Voucher (RPS),iLabs + Prep EV + PU EV,EHE,1,75.99,75.99,0,75.99,3.8,0.0,79.78999999999999,0.00,0.00,0.00,79.79,11-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,#1644.2,manual,79.79,11-08-2026,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,,SUCCESS,11-08-2026,
+149,REFUND,11-08-2026,#1642,#1642-R1,gargeepawarecc@gmail.com,PENDING,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,1,1050.0,1050.0,0,1050.0,52.5,0.0,1102.5,0.00,0.00,0.00,,21-08-2026,,,USD,P6Q9M2K7AXTW,491726835607,Order Cap Test,ATC,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,A B Carter Rd,Hallsville,Texas,TX,United States,US,75650,,,,,,,ICEC,SO16,International Council of E-Commerce Consultants Inc,Channel US,017,203,Net 7,18-08-2026,,SUCCESS,21-08-2026,
+150,REFUND,11-08-2026,#1641,#1641-R1,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,CSCU-V03-CNT-EDU-DRM-RPS-EV-iLAB-VID,"Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos",DRM W/PU EV + iLabs + iVideo,CSCU,2,146.55,293.1,0,3401.74,442.22,0.0,3843.96,340.17,44.22,384.39,3459.58,11-08-2026,,,CAD,SAP2M7L8X4ZW,529801467312,Tata Sonic,Academia,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,"Logan Bryant
+",S2L8R3M,zOXcMob60SKdq8i7hU60UCxRD,shopify_payments,3459.58,11-08-2026,ECCC,SO15,EC-Council Canada Inc.,Academia US,016,201,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 07:48:09 AM UTC
+
+Return ID: 13514637377
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 202.07
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 20.20
+⤷ Total Restocking Fee: CAD 175.63
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1580.76
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 560.02
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5040.34
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 07:39:00 AM UTC
+
+Return ID: 13514571841
+
+Returned Items (2):
+
+1. Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+   • Qty: 2
+   • Value: CAD 293.10
+   • Tax: CAD 38.11
+
+2. Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+   • Qty: 2
+   • Value: CAD 3108.64
+   • Tax: CAD 404.12
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 340.17
+⤷ Tax on Restocking Fee: CAD 44.22
+⤷ Total Restocking Fee: CAD 384.39
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 3459.58
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 384.39
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 3459.58
+========================
+
+
+",SUCCESS,11-08-2026,
+151,REFUND,11-08-2026,#1641,#1641-R1,sameer.singh@eccouncil.org,PARTIALLY_REFUNDED,CPENT-V02-DRM-Lab-EV-RPS-RANG,"Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days",DRM W/PU EV + Lab + Practice range,CPENT,2,1554.32,3108.64,0,3401.74,442.22,0.0,3843.96,340.17,44.22,384.39,3459.58,11-08-2026,,,CAD,SAP2M7L8X4ZW,529801467312,Tata Sonic,Academia,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,82 Labadie Rd,Windsor,Ontario,ON,Canada,CA,N8W 4J7,"Logan Bryant
+",S2L8R3M,zOXcMob60SKdq8i7hU60UCxRD,shopify_payments,3459.58,11-08-2026,ECCC,SO15,EC-Council Canada Inc.,Academia US,016,201,Net 7,18-08-2026,"========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 07:48:09 AM UTC
+
+Return ID: 13514637377
+
+Returned Item (1):
+
+• Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+  • Qty: 1
+  • Value: CAD 1554.32
+  • Tax: CAD 202.07
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 155.43
+⤷ Tax on Restocking Fee: CAD 20.20
+⤷ Total Restocking Fee: CAD 175.63
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 1580.76
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 560.02
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 5040.34
+========================
+
+
+========================
+
+RESTOCKING ENGINE
+
+Processed: 11 Aug 2026, 07:39:00 AM UTC
+
+Return ID: 13514571841
+
+Returned Items (2):
+
+1. Continuing Education Bundle: Certified Secure Computer User (CSCU) Version 3 e-Courseware with Exam Voucher (RPS), iLabs & Videos
+   • Qty: 2
+   • Value: CAD 293.10
+   • Tax: CAD 38.11
+
+2. Certified Penetration Testing Professional (CPENT) Version 2 eBook with Exam Voucher (RPS), CPENT Cyber Range for 90 Days & Lab for 180 Days
+   • Qty: 2
+   • Value: CAD 3108.64
+   • Tax: CAD 404.12
+
+RETURN SUMMARY
+⤷ Restocking Fee: CAD 340.17
+⤷ Tax on Restocking Fee: CAD 44.22
+⤷ Total Restocking Fee: CAD 384.39
+
+========================
+⤷ AMOUNT TO REFUND FOR THIS RETURN: CAD 3459.58
+========================
+
+ORDER SUMMARY
+⤷ Total Restocking Fee for all Returns on this Order: CAD 384.39
+
+========================
+⤷ TOTAL AMOUNT TO REFUND FOR ALL RETURNS ON THIS ORDER: CAD 3459.58
+========================
+
+
+",SUCCESS,11-08-2026,

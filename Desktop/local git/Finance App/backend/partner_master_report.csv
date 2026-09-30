@@ -1,0 +1,26 @@
+﻿Report Name,Partner Master Report
+Store Name,ecl-b2b.myshopify.com
+Generated On,14-Aug-2026 05:31:59 PM
+
+S. No.,Partner ID (shopify),Partner Name,Partner Cert ID,Partner SAP ID,Partner Type,Partner Capping,Partner Outstanding,Partner Store Credit,Partner Credit Limit
+1,4214948014,Test demo,,,,,0.0,0.0,5000.0
+2,4016799918,Delete,,,,,0.0,9402.0,
+3,4016734382,EC-Council - ATC,Sam cert id,sam sap id,Reseller,Yes,3711.1,0.0,5000.0
+4,4015784110,Test Payment Company DNT,,,,,2.14,0.0,
+5,3933733038,Test CANANDA entity,,,,No,0.0,10000.0,
+6,3870294190,ketan tax canada,,,,No,0.0,0.0,
+7,3867541678,Test Latam,,,,No,598.0,8703.0,
+8,3866886318,test canada,,,,No,2368.5,1000.0,
+9,3788177582,Test CANADA entity,,,,Yes,4932.71,11800.0,2000.0
+10,3788144814,Delete,,,,No,0.0,30300.0,1000.0
+11,3748692142,avalara test company,asdfghjkl,12345678,Reseller,No,5813.86,0.0,
+12,3718971566,Delete,sdfghjkl,asdfghjkl,Reseller,No,0.0,0.0,567.0
+13,2506490030,Delete,,,,No,0.0,6257.68,
+14,1673429166,Delete,,,,No,0.0,2240.0,
+15,1582563502,Delete,,,,Yes,40279.27,682.38,10000.0
+16,1581711534,ATC - Demo Company,,,,No,39339.15,2546.8,
+17,1581023406,Sample Company,,,,No,148394.0,246.91,
+18,1580761262,Delete,,,,No,0.0,0.0,
+19,1578139822,Delete,,,,No,0.0,0.0,
+20,1462108334,Delete,,,,No,0.0,0.0,
+21,1462075566,Delete,,,,No,0.0,0.0,
